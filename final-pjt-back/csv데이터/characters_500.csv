@@ -1,0 +1,2428 @@
+﻿id,charactername,score,actor_id,movie_id
+1,Sonic the Hedgehog (voice),0,222121,675353
+2,Knuckles the Echidna (voice),0,17605,675353
+3,Miles 'Tails' Prower (voice),0,1212864,675353
+4,Dr. Ivo Robotnik,0,206,675353
+5,Tom Wachowski,0,11006,675353
+6,Loretta Sage / Angela,0,18277,752623
+7,Alan / Dash,0,38673,752623
+8,Abigail Fairfax,0,10980,752623
+9,Jack Trainer,0,287,752623
+10,Beth Hatten,0,1180099,752623
+11,Nathan Drake,0,1136406,335787
+12,Victor 'Sully' Sullivan,0,13240,335787
+13,Chloe Frazer,0,1163789,335787
+14,Jo Braddock,0,1859934,335787
+15,Santiago Moncada,0,3131,335787
+16,Amleth,0,28846,639933
+17,Queen Gudrún,0,2227,639933
+18,Fjölnir The Brotherless,0,150802,639933
+19,King Aurvandil War-Raven,0,569,639933
+20,Olga of the Birch Forest,0,1397778,639933
+21,Bruce Wayne / The Batman,0,11288,414906
+22,Selina Kyle / Catwoman,0,37153,414906
+23,Edward Nashton / The Riddler,0,17142,414906
+24,Lt. James Gordon,0,2954,414906
+25,Carmine Falcone,0,1241,414906
+26,Father Peter Williams,0,58942,836225
+27,Esperanza,0,1601451,836225
+28,Magali,0,1050186,836225
+29,Father Michael Lewis,0,1212803,836225
+30,Dr. Nelson,0,133766,836225
+31,Dr. Michael Morbius / Morbius,0,7499,526896
+32,Milo / Lucien,0,136532,526896
+33,Martine Bancroft,0,1371297,526896
+34,Dr. Emil Nicholas,0,15440,526896
+35,Agent Alberto Rodriguez,0,90534,526896
+36,Peter Parker / Spider-Man,0,1136406,634649
+37,Michelle 'MJ' Jones,0,505710,634649
+38,Stephen Strange / Doctor Strange,0,71580,634649
+39,Ned Leeds,0,1649152,634649
+40,Harold 'Happy' Hogan,0,15277,634649
+41,Dr. Stephen Strange / Sinister Strange / Defender Strange,0,71580,453395
+42,Wanda Maximoff / The Scarlet Witch,0,550843,453395
+43,Baron Karl Mordo,0,5294,453395
+44,Wong,0,30082,453395
+45,America Chavez,0,1912381,453395
+46,Mr. Wolf (voice),0,6807,629542
+47,Mr. Snake (voice),0,1231717,629542
+48,Ms. Tarantula (voice),0,1625558,629542
+49,Mr. Shark (voice),0,64342,629542
+50,Mr. Piranha (voice),0,1560244,629542
+51,James Harper,0,62064,628900
+52,Mike,0,11107,628900
+53,Brianne,0,94098,628900
+54,Virgil,0,1665,628900
+55,Rusty,0,2628,628900
+56,Ousmane Diakhité,0,78423,785985
+57,François Monge,0,93532,785985
+58,Alice,0,1121169,785985
+59,Brunner,0,71038,785985
+60,Mercier,0,1977894,785985
+61,Ming (voice),0,25540,508947
+62,Meilin 'Mei' Lee (voice),0,3156344,508947
+63,Miriam (voice),0,1373681,508947
+64,Priya (voice),0,2602879,508947
+65,Jo Fowler,0,4587,406759
+66,Brian Harper,0,17178,406759
+67,K.C. Houseman,0,1010135,406759
+68,Sonny Harper,0,1440574,406759
+69,Michelle,0,2225985,406759
+70,Danny Sharp,0,131,763285
+71,Will Sharp,0,1639847,763285
+72,Cam Thompson,0,1222992,763285
+73,Captain Monroe,0,39520,763285
+74,FBI Agent Anson Clark,0,39213,763285
+75,Luis,0,131867,893370
+76,Iris,0,2300951,893370
+77,Javier,0,3326346,893370
+78,Miriam,0,1591940,893370
+79,Balzary,0,62747,883502
+80,Robert,0,62,883502
+81,Paul,0,57171,883502
+82,Kate,0,1278867,883502
+83,Ulysses,0,1160181,883502
+84,Leonard,0,40900,799876
+85,Mable,0,1059597,799876
+86,Richie,0,527393,799876
+87,Francis,0,137108,799876
+88,Violet,0,109319,799876
+89,Stephen Strange / Doctor Strange,0,71580,284052
+90,Karl Mordo,0,5294,284052
+91,Dr. Christine Palmer,0,53714,284052
+92,Wong,0,30082,284052
+93,Kaecilius,0,1019,284052
+94,Laura Biel,0,2511949,829557
+95,Massimo Torricelli / Adriano Torricelli,0,2349355,829557
+96,"Marcelo ""Nacho"" Matos",0,3090060,829557
+97,Olga,0,1637039,829557
+98,Domenico,0,1616974,829557
+99,Mirabel Madrigal (voice),0,968367,568124
+100,Abuela Alma Madrigal (voice),0,2521631,568124
+101,Bruno Madrigal (voice),0,5723,568124
+102,Félix Madrigal (voice),0,3150235,568124
+103,Luisa Madrigal (voice),0,2489411,568124
+104,Jee Kang-in,0,85008,606402
+105,Han Ji-hoon,0,1593672,606402
+106,Ozawa,0,234641,606402
+107,Hong,0,1297749,606402
+108,Hee-won,0,1257661,606402
+109,Johan Langerman,0,16743,951470
+110,Sechaba,0,15546,951470
+111,Calvin Khumalo,0,1412942,951470
+112,Mbali Terra Mabunda,0,3133906,951470
+113,Aldo Erasmus,0,1956757,951470
+114,Newt Scamander,0,37632,338953
+115,Albus Dumbledore,0,9642,338953
+116,Gellert Grindelwald,0,1019,338953
+117,Credence Barebone / Aurelius Dumbledore,0,132157,338953
+118,Jacob Kowalski,0,58873,338953
+119,Henry Pelham,0,62064,294793
+120,Celia Harrison,0,9030,294793
+121,Bill Compton,0,378,294793
+122,Vick Wallinger,0,2975,294793
+123,Karl Stein,0,17199,294793
+124,Misael,0,5723,845885
+125,Gloria Vera,0,270,845885
+126,Antonio,0,281122,845885
+127,Pascual,0,620853,845885
+128,Caceres,0,1659448,845885
+129,Mavis Dracula (voice),0,77948,585083
+130,Johnny Loughran (voice),0,62861,585083
+131,Ericka Van Helsing (voice),0,17696,585083
+132,Van Helsing (voice),0,84407,585083
+133,Wayne (voice),0,884,585083
+134,Adam Reed,0,10859,696806
+135,Young Adam,0,2867506,696806
+136,Louis Reed,0,103,696806
+137,Ellie Reed,0,9278,696806
+138,Laura,0,8691,696806
+139,Susana,0,2846747,661791
+140,Pilar,0,1910478,661791
+141,Eva,0,1914003,661791
+142,Adela,0,3461067,661791
+143,Julia,0,3461069,661791
+144,Buck Wild (voice),0,11108,774825
+145,Crash (voice),0,1240645,774825
+146,Eddie (voice),0,3332754,774825
+147,Orson (voice),0,929511,774825
+148,Zee (or whatever her name is) (voice),0,95517,774825
+149,Ashlaya Wellish,0,2673964,919689
+150,General Skuller,0,13021,919689
+151,Tiago,0,53252,919689
+152,Patlin,0,3498932,919689
+153,Lucas,0,3214674,919689
+154,Izuku Midoriya (voice),0,1325962,768744
+155,Katsuki Bakugo (voice),0,1245094,768744
+156,Shoto Todoroki (voice),0,149894,768744
+157,Rody Soul (voice),0,1149341,768744
+158,Flect Turn (voice),0,84507,768744
+159,Eddie Brock / Venom,0,2524,580489
+160,Cletus Kasady / Carnage,0,57755,580489
+161,Anne Weying,0,1812,580489
+162,Frances Louise Barrison / Shriek,0,2038,580489
+163,Dr. Dan Lewis,0,81316,580489
+164,Pedro,0,175615,937337
+165,Alin,0,2638304,937337
+166,,0,145184,937337
+167,,0,7351,937337
+168,,0,589801,937337
+169,Travis Block,0,3896,823625
+170,Mira Jones,0,2026050,823625
+171,Dusty Crane,0,1369329,823625
+172,Gabriel Robinson,0,18992,823625
+173,Drew Hawthorne,0,123724,823625
+174,Tanjirō Kamado (voice),0,1256603,635302
+175,Nezuko Kamado (voice),0,1563442,635302
+176,Zenitsu Agatsuma (voice),0,119145,635302
+177,Inosuke Hashibira (voice),0,233590,635302
+178,Kyōjurō Rengoku (voice),0,224413,635302
+179,Buster Moon (voice),0,10297,438695
+180,Rosita (voice),0,368,438695
+181,Ash (voice),0,1245,438695
+182,Johnny (voice),0,1303037,438695
+183,Mr. Crystal (voice),0,21127,438695
+184,Sersi,0,97576,524434
+185,Ikaris,0,512991,524434
+186,Thena,0,11701,524434
+187,Kingo,0,466505,524434
+188,Druig,0,1290466,524434
+189,Shaun / Shang-Chi,0,1489211,566525
+190,Xu Wenwu / The Mandarin,0,1337,566525
+191,Katy Chen,0,1625558,566525
+192,Xu Xialing,0,2979464,566525
+193,Ying Li,0,123701,566525
+194,Tristain (voice),0,1502550,676705
+195,Le chef des mercenaires (voice),0,3192287,676705
+196,Pil,0,1643163,676705
+197,Crobar (voice),0,1446164,676705
+198,Rigolin (voice),0,146059,676705
+199,Edgar Marsdale,0,1733286,801071
+200,Amy Proctor,0,2992685,801071
+201,Jack,0,2215526,801071
+202,Olga Marsdale,0,216988,801071
+203,Doctor Clarke,0,1759040,801071
+204,Marmaduke (voice),0,1427948,678287
+205,Zeus (voice),0,18999,678287
+206,Dottie (voice),0,1217658,678287
+207,Phil (voice),0,28638,678287
+208,Ronnie (voice),0,2551381,678287
+209,Spencer Timms,0,2815598,938596
+210,Nolan Holt,0,968889,938596
+211,Dottie Timms,0,3426551,938596
+212,Sherrif Wilson,0,1622024,938596
+213,Reema,0,1530656,938596
+214,Darby,0,2378813,833425
+215,Ash,0,1773397,833425
+216,Ed,0,352,833425
+217,Lars,0,1541178,833425
+218,Sandi,0,46814,833425
+219,Caroline Edh,0,87722,760868
+220,Nylund,0,76555,760868
+221,Malik,0,234907,760868
+222,Granvik,0,1377204,760868
+223,Karimi,0,1601435,760868
+224,Orlando Oxford,0,5469,476669
+225,Conrad Oxford,0,1716493,476669
+226,Polly,0,59620,476669
+227,Grigori Rasputin,0,7026,476669
+228,Shola,0,938,476669
+229,Jake Sully,0,65731,19995
+230,Neytiri,0,8691,19995
+231,Dr. Grace Augustine,0,10205,19995
+232,Colonel Miles Quaritch,0,32747,19995
+233,Trudy Chacon,0,17647,19995
+234,Claire Redfield,0,115150,460458
+235,Chris Redfield,0,1223726,460458
+236,Jill Valentine,0,1408809,460458
+237,Albert Wesker,0,1017294,460458
+238,Leon S. Kennedy,0,212934,460458
+239,Auden West,0,2675886,778106
+240,Eli Stock,0,2286570,778106
+241,Heidi,0,7517,778106
+242,Dr. Victoria West,0,1533,778106
+243,Maggie,0,3006084,778106
+244,Angela Childs,0,37153,800510
+245,Terry Hughes,0,1687573,800510
+246,Antonio Rivas,0,545087,800510
+247,Samantha Gerrity,0,21711,800510
+248,Bradley Hasling,0,2141051,800510
+249,Jaelyn,0,5588,803114
+250,Kyle,0,119807,803114
+251,Anne,0,77013,803114
+252,Fisherman,0,1787407,803114
+253,Lizzie,0,155134,803114
+254,Paolo,0,563633,949270
+255,César,0,1240883,949270
+256,Naomi,0,147336,949270
+257,Selina,0,979449,949270
+258,Amelia,0,1398803,949270
+259,Theodore Templeton (voice),0,7447,459151
+260,Tim Templeton (voice),0,11006,459151
+261,Tina Templeton (voice),0,12110,459151
+262,Dr. Armstrong (voice),0,4785,459151
+263,Carol Templeton (voice),0,52605,459151
+264,The Marshal (voice),0,2727292,892153
+265,Bumpy (voice),0,1984038,892153
+266,Duke (voice),0,82816,892153
+267,August Critchley (voice),0,1216346,892153
+268,Scruffy (voice),0,1267558,892153
+269,Meliodas / Zeldris (voice),0,149894,843241
+270,Elizabeth Liones (voice),0,1325034,843241
+271,Hawk (voice),0,151182,843241
+272,Diane (voice),0,936275,843241
+273,Ban (voice),0,1154452,843241
+274,John Wood,0,1481440,860623
+275,Maria Johnson,0,1273684,860623
+276,Commander Stone,0,3195120,860623
+277,Dr. Feltspat,0,11290,860623
+278,Granite,0,1767342,860623
+279,Bea,0,2183760,935819
+280,Guille,0,2628884,935819
+281,Max,0,1543621,935819
+282,Allison,0,2628886,935819
+283,Alejandro,0,929711,935819
+284,Callie Spengler,0,1308445,425909
+285,Trevor,0,1442069,425909
+286,Phoebe,0,1172108,425909
+287,Gary Grooberson,0,22226,425909
+288,Podcast,0,2357412,425909
+289,Sidney Prescott,0,9206,646385
+290,Gale Weathers,0,14405,646385
+291,Dewey Riley,0,15234,646385
+292,Sam Carpenter,0,1373659,646385
+293,Tara Carpenter,0,974169,646385
+294,Paige Evans,0,1257205,860159
+295,AJ Campos,0,1564846,860159
+296,Gabriela Campos,0,2551677,860159
+297,Dillon,0,1428081,860159
+298,Stacey Clark,0,42915,860159
+299,Melody,0,2035239,632727
+300,Lila,0,122851,632727
+301,Leatherface,0,172254,632727
+302,Dante,0,512316,632727
+303,Richter,0,1288730,632727
+304,Ewen Montazac,0,5472,661231
+305,Charles Cholmondeley,0,15576,661231
+306,Jean Leslie,0,9015,661231
+307,Hester Leggett,0,1249,661231
+308,Ian Fleming,0,137108,661231
+309,Tessa,0,125025,818750
+310,Skylar,0,1562074,818750
+311,Vickie,0,21165,818750
+312,Mel,0,40543,818750
+313,Shannon,0,1972881,818750
+314,Captain Jack Sparrow,0,85,1865
+315,Angélica,0,955,1865
+316,Captain Hector Barbossa,0,118,1865
+317,"Captain Edward ""Blackbeard"" Teach",0,6972,1865
+318,Gibbs,0,2449,1865
+319,Paul,0,130253,698508
+320,Angel,0,1371456,698508
+321,Mae,0,19961,698508
+322,Duchess,0,10696,698508
+323,Michael Hosea,0,2336109,698508
+324,Emily Elizabeth,0,1696017,585245
+325,Casey,0,212285,585245
+326,Owen Yu,0,2362044,585245
+327,Mr. Bridwell,0,8930,585245
+328,Zack Tieran,0,25147,585245
+329,Thomas A. Anderson / Neo,0,6384,624860
+330,Tiffany / Trinity,0,530,624860
+331,Morpheus / Agent Smith,0,1639847,624860
+332,Bugs,0,1202689,624860
+333,Smith,0,221611,624860
+334,Sonic the Hedgehog (voice),0,222121,939243
+335,Tom Wachowski,0,11006,939243
+336,Knuckles the Echidna (voice),0,17605,939243
+337,"Miles ""Tails"" Prower (voice)",0,1212864,939243
+338,Virgil,0,29222,760926
+339,Keith,0,75711,760926
+340,The Stranger,0,51671,760926
+341,Outpost attendant,0,79698,760926
+342,Mother on train,0,3398903,760926
+343,Self,0,9656,656663
+344,Self,0,56585,656663
+345,Self,0,56586,656663
+346,Self,0,86627,656663
+347,Self,0,78840,656663
+348,Stephanie Conway,0,221581,800937
+349,Blaine Balboa,0,1222596,800937
+350,Young Stephanie Conway,0,1265629,800937
+351,Seth Novacelik,0,1429453,800937
+352,Tiffany Balboa,0,1432528,800937
+353,John Hartley,0,18918,512195
+354,Nolan Booth,0,10859,512195
+355,Sarah Black / The Bishop,0,90633,512195
+356,Inspector Urvashi Das,0,1742596,512195
+357,Sotto Voce,0,1217648,512195
+358,Captain Jack Sparrow,0,85,58
+359,Will Turner,0,114,58
+360,Elizabeth Swann,0,116,58
+361,"William ""Bootstrap Bill"" Turner",0,1640,58
+362,Captain Davy Jones,0,2440,58
+363,Thomas Blin,0,1077537,928381
+364,Marelli,0,10917,928381
+365,Marc,0,224150,928381
+366,Naomi,0,2822971,928381
+367,Agathe,0,3104573,928381
+368,Sonic the Hedgehog (voice),0,222121,454626
+369,Tom Wachowski,0,11006,454626
+370,Dr. Robotnik,0,206,454626
+371,Maddie Wachowski,0,110742,454626
+372,Rachel,0,1546282,454626
+373,James Baker,0,64856,753232
+374,Johnny,0,2295,753232
+375,Sheriff Alexander,0,20495,753232
+376,Lisa,0,1282666,753232
+377,Sebastian,0,1138751,753232
+378,Cole Young,0,1610940,460465
+379,Sonya Blade,0,136347,460465
+380,Kano,0,189230,460465
+381,Bi-Han / Sub-Zero,0,592496,460465
+382,Jax Briggs,0,51684,460465
+383,Tony Stark / Iron Man,0,3223,299536
+384,Thor Odinson,0,74568,299536
+385,Bruce Banner / Hulk,0,103,299536
+386,Steve Rogers / Captain America,0,16828,299536
+387,Natasha Romanoff / Black Widow,0,1245,299536
+388,Homer Simpson (voice),0,198,877183
+389,Bart Simpson (voice),0,200,877183
+390,Lisa Simpson (voice),0,5586,877183
+391,Moe Szyslak (voice),0,5587,877183
+392,Maleficent (voice),0,34983,877183
+393,Mabel (voice),0,1137824,926899
+394,Raymond (voice),0,1247,926899
+395,Penelope (voice),0,36663,926899
+396,Isobel (voice),0,3471137,926899
+397,Mr. Thomas (voice),0,47712,926899
+398,Guy,0,10859,550988
+399,Millie Rusk / Molotovgirl,0,1388593,550988
+400,Walter 'Keys' McKeys,0,1467219,550988
+401,Buddy,0,1488961,550988
+402,Mouser,0,929511,550988
+403,Mari Carmen,0,102222,955971
+404,José Luis,0,34018,955971
+405,,0,1441997,955971
+406,,0,4367,955971
+407,,0,24879,955971
+408,Jack Sparrow,0,85,22
+409,Will Turner,0,114,22
+410,Elizabeth Swann,0,116,22
+411,Hector Barbossa,0,118,22
+412,Norrington,0,1709,22
+413,Captain Jack Sparrow,0,85,285
+414,Will Turner,0,114,285
+415,Elizabeth Swann,0,116,285
+416,Captain Hector Barbossa,0,118,285
+417,"William ""Bootstrap Bill"" Turner",0,1640,285
+418,Chase (voice),0,1684536,675445
+419,Skye (voice),0,2412016,675445
+420,Ryder (voice),0,3044930,675445
+421,Humdinger / Turbot (voice),0,1227611,675445
+422,Liberty (voice),0,1407498,675445
+423,Kai Jin,0,113732,890656
+424,Lu Xin Lee,0,1610940,890656
+425,William Pan,0,162367,890656
+426,Interpol Agent,0,1697476,890656
+427,Ku An Qi,0,1206367,890656
+428,Estella / Cruella,0,54693,337404
+429,The Baroness,0,7056,337404
+430,Jasper,0,54811,337404
+431,Horace,0,1294982,337404
+432,John the Valet,0,2983,337404
+433,Luca Paguro (voice),0,1277188,508943
+434,Alberto Scorfano (voice),0,1774679,508943
+435,Giulia Marcovaldo (voice),0,2990400,508943
+436,Ercole Visconti (voice),0,1874693,508943
+437,Daniela Paguro (voice),0,52792,508943
+438,Savi,0,550167,783461
+439,Satya,0,1714229,783461
+440,Julia,0,2092738,783461
+441,Victor,0,101823,783461
+442,Mamlesh Charan Chaddha,0,1252843,783461
+443,Capt. Pete 'Maverick' Mitchell,0,500,361743
+444,Lt. Bradley 'Rooster' Bradshaw,0,996701,361743
+445,Penny Benjamin,0,6161,361743
+446,Vice Admiral Beau 'Cyclone' Simpson,0,65717,361743
+447,Lt. 'Hangman' Seresin,0,83271,361743
+448,Ritsuka Fujimaru (voice),0,1210634,829920
+449,Mash Kyrielight (voice),0,1492982,829920
+450,Fou (voice),0,151183,829920
+451,Romani Archaman (voice),0,9726,829920
+452,Leonardo da Vinci (voice),0,9711,829920
+453,Raquel,0,3247402,818647
+454,Ares,0,2367724,818647
+455,Rosa María,0,138701,818647
+456,Apolo,0,119969,818647
+457,Artemis,0,2587055,818647
+458,Kansas Red,0,211742,928999
+459,Thorn,0,85477,928999
+460,,0,13022,928999
+461,Leslie,0,22074,928999
+462,Billy,0,2926273,928999
+463,Sarah Simmons,0,1821947,870671
+464,Dr. Keely,0,3223049,870671
+465,Maggie Talbot,0,3223050,870671
+466,Dave,0,3223051,870671
+467,Stanton 'Stan' Carlisle,0,51329,597208
+468,Dr. Lilith Ritter,0,112,597208
+469,Zeena 'Zeena the Seer' Krumbein,0,3051,597208
+470,Clement 'Clem' Hoatley,0,5293,597208
+471,Ezra Grindle,0,28633,597208
+472,Ron (voice),0,58225,482321
+473,Barney (voice),0,1774679,482321
+474,Graham (voice),0,27105,482321
+475,Donka (voice),0,39187,482321
+476,Marc (voice),0,1029934,482321
+477,Dominic Toretto,0,12835,385128
+478,Letty Ortiz Toretto,0,17647,385128
+479,Roman Pearce,0,8169,385128
+480,Tej Parker,0,8171,385128
+481,Jakob Toretto,0,56446,385128
+482,Alexey,0,562730,589761
+483,Olga,0,77667,589761
+484,Valera,0,1378375,589761
+485,Dina,0,490022,589761
+486,Stysin,0,2039476,589761
+487,LeBron James,0,107379,379686
+488,Al G. Rhythm,0,1896,379686
+489,Dominic 'Dom' James,0,2998402,379686
+490,Bugs Bunny / Sylvester / Yosemite Sam / Fred Flintstone (voice),0,179896,379686
+491,Speedy Gonzales (voice),0,86498,379686
+492,Anna,0,1723918,829358
+493,Smirnov,0,10210,829358
+494,Mary,0,1503397,829358
+495,Sebastian,0,1461459,829358
+496,Katy,0,93790,829358
+497,Harleen Quinzel / Harley Quinn,0,234352,436969
+498,Robert DuBois / Bloodsport,0,17605,436969
+499,Christopher Smith / Peacemaker,0,56446,436969
+500,Colonel Rick Flag,0,92404,436969
+501,Nanaue / King Shark (voice),0,16483,436969
+502,Avery Hansen-White,0,1186941,803104
+503,Larson,0,93219,803104
+504,Danica McCollum,0,1274291,803104
+505,Ma Deb,0,11152,803104
+506,Mama Suze,0,1183672,803104
+507,Greg Heffley (voice),0,2239159,774741
+508,Rowley Jefferson (voice),0,2295755,774741
+509,Rodrick Heffley (voice),0,1882895,774741
+510,Susan Heffley (voice),0,1218928,774741
+511,Frank Heffley (voice),0,1217648,774741
+512,Ivan,0,1257126,589754
+513,Vasilisa,0,1309706,589754
+514,Varvara,0,107727,589754
+515,Baba Yaga,0,30404,589754
+516,Kashchey,0,68517,589754
+517,Slade Wilson / Deathstroke (voice),0,19654,703771
+518,Adeline 'Addie' Kane Wilson (voice),0,64154,703771
+519,Jackal (voice),0,1103625,703771
+520,H.I.V.E. Queen / Jade (voice),0,2355624,703771
+521,Joseph Wilson / Jericho (voice),0,2663193,703771
+522,Bruce Wayne / Batman,0,880,791373
+523,Clark Kent / Superman / Kal-El,0,73968,791373
+524,Diana Prince / Wonder Woman,0,90633,791373
+525,Arthur Curry / Aquaman,0,117642,791373
+526,Barry Allen / The Flash,0,132157,791373
+527,Mason 'Mace' Brown,0,83002,522016
+528,Khadijah Adiyeme,0,1267329,522016
+529,Graciela Rivera,0,955,522016
+530,Marie Schmidt,0,9824,522016
+531,Lin Mi Sheng,0,64439,522016
+532,Natasha Romanoff / Black Widow,0,1245,497698
+533,Yelena Belova,0,1373737,497698
+534,Melina Vostokoff,0,3293,497698
+535,Alexei Shostakov / Red Guardian,0,35029,497698
+536,Dreykov,0,5538,497698
+537,Charles Rutledge,0,92949,766907
+538,Ben Watts,0,62,766907
+539,Roy,0,1724556,766907
+540,Grace Baker,0,3349428,766907
+541,Silas,0,21798,766907
+542,Tessa Young,0,1753914,744275
+543,Hardin Scott,0,1114487,744275
+544,Trish Daniels,0,20805,744275
+545,Landon Gibson,0,2035329,744275
+546,Ken Scott,0,20960,744275
+547,Beth,0,85825,840882
+548,Kate,0,1332029,840882
+549,Zain,0,1619456,840882
+550,Rob,0,1386825,840882
+551,Pavic,0,569918,840882
+552,Captain Jack Sparrow,0,85,166426
+553,Captain Armando Salazar,0,3810,166426
+554,Captain Hector Barbossa,0,118,166426
+555,Henry Turner,0,1017347,166426
+556,Carina Smyth,0,115150,166426
+557,Frank Wolff,0,18918,451048
+558,Dr. Lily Houghton,0,5081,451048
+559,Lope de Aguirre,0,25616,451048
+560,McGregor Houghton,0,212285,451048
+561,Prince Joachim,0,88124,451048
+562,Julián Lemar,0,96429,842052
+563,Valeria,0,105736,842052
+564,Ana,0,968350,842052
+565,,0,929045,842052
+566,Mercedes,0,1482609,842052
+567,Yuta Okkotsu (voice),0,77927,810693
+568,Rika Orimoto (voice),0,119143,810693
+569,Maki Zen'in (voice),0,1281498,810693
+570,Toge Inumaki (voice),0,1254052,810693
+571,Panda (voice),0,90567,810693
+572,Dr. Stephen Strange,0,91624,50468
+573,Wong,0,2249,50468
+574,Morgan LeFay,0,41232,50468
+575,Clea Lake,0,9986,50468
+576,"Dr Frank Taylor, Chief of Psychiatry",0,22437,50468
+577,Jake Sully,0,65731,76600
+578,Neytiri,0,8691,76600
+579,Ronal,0,204,76600
+580,,0,10205,76600
+581,Colonel Miles Quaritch,0,32747,76600
+582,Tony Stark / Iron Man,0,3223,24428
+583,Steve Rogers / Captain America,0,16828,24428
+584,Bruce Banner / The Hulk,0,103,24428
+585,Thor Odinson,0,74568,24428
+586,Natasha Romanoff / Black Widow,0,1245,24428
+587,Ray,0,212646,910596
+588,Billings,0,15376,910596
+589,Faith,0,93377,910596
+590,Brando,0,18702,910596
+591,Ninni/Gerardo,0,1619445,910596
+592,Gerry Fenn,0,47296,632357
+593,Alice,0,2067034,632357
+594,Father Hagan,0,6573,632357
+595,Natalie Gates,0,221944,632357
+596,Bishop Gyles,0,2130,632357
+597,Tony Stark / Iron Man,0,3223,299534
+598,Steve Rogers / Captain America,0,16828,299534
+599,Bruce Banner / Hulk,0,103,299534
+600,Thor Odinson,0,74568,299534
+601,Natasha Romanoff / Black Widow,0,1245,299534
+602,Vic Van Allen,0,880,619979
+603,Melinda Van Allen,0,224513,619979
+604,Don Wilson,0,72638,619979
+605,Grant,0,1488961,619979
+606,Jonas Fernandez,0,6066,619979
+607,Paul Atreides,0,1190668,438631
+608,Lady Jessica Atreides,0,933238,438631
+609,Duke Leto Atreides,0,25072,438631
+610,Gurney Halleck,0,16851,438631
+611,Baron Vladimir Harkonnen,0,1640,438631
+612,Margot,0,1902689,609972
+613,Chris,0,1563211,609972
+614,Samuel,0,2220668,609972
+615,Jacob,0,94854,609972
+616,David,0,19827,811072
+617,Sara,0,107927,811072
+618,Oscar,0,24980,811072
+619,Rita,0,3027465,811072
+620,Mario,0,3027466,811072
+621,Jake Harris,0,78110,811592
+622,Zoe Anderson,0,45827,811592
+623,Jack Yorke,0,11864,811592
+624,Brandon 'Whit' Whitaker,0,1664773,811592
+625,Danny Dietler,0,2434251,811592
+626,Dr. Alan Grant,0,4783,507086
+627,Dr. Ellie Sattler,0,4784,507086
+628,Dr. Ian Malcolm,0,4785,507086
+629,Owen Grady,0,73457,507086
+630,Claire Dearing,0,18997,507086
+631,Zoey Baker,0,17773,691683
+632,Paul Baker,0,5367,691683
+633,Kate,0,21711,691683
+634,Dom Clayton,0,1464815,691683
+635,Deja,0,2070662,691683
+636,Dr. Nathan Lind,0,28846,399566
+637,Madison Russell,0,1356210,399566
+638,Dr. Ilene Andrews,0,15556,399566
+639,Bernie Hayes,0,226366,399566
+640,Ren Serizawa,0,46364,399566
+641,Ed Warren,0,17178,423108
+642,Lorraine Warren,0,21657,423108
+643,Arne Cheyne Johnson,0,1731961,423108
+644,Debbie Glatzel,0,2485582,423108
+645,David Glatzel,0,2047847,423108
+646,Gomez Addams (voice),0,25072,639721
+647,Morticia Addams (voice),0,6885,639721
+648,Pugsley Addams (voice),0,2532098,639721
+649,Wednesday Addams (voice),0,56734,639721
+650,Uncle Fester (voice),0,208519,639721
+651,Julia Meadows,0,41292,516329
+652,Paul Meadows,0,88124,516329
+653,Lucas Weaver,0,1890584,516329
+654,Warren Stokes,0,6804,516329
+655,Frank Weaver,0,87954,516329
+656,Son Goku / Son Gohan / Son Goten (voice),0,90496,303857
+657,Vegeta (voice),0,122501,303857
+658,Frieza (voice),0,115305,303857
+659,Beerus (voice),0,20664,303857
+660,Whis (voice),0,78402,303857
+661,James Bond,0,8784,370172
+662,Dr. Madeleine Swann,0,121529,370172
+663,Lyutsifer Safin,0,17838,370172
+664,Nomi,0,1360281,370172
+665,M,0,5469,370172
+666,Finch,0,31,522402
+667,Jeff (voice),0,572541,522402
+668,Truck Driver (Flashback),0,1457107,522402
+669,Mother (Flashback),0,1151637,522402
+670,Daughter (Flashback),0,1912057,522402
+671,Grace Miller,0,24967,916740
+672,Detective Ed Jennings,0,21429,916740
+673,Ben,0,1232487,916740
+674,Kathleen Miller Breezewood / Desiree,0,211685,916740
+675,Jerald Baxter / Hacker,0,2563029,916740
+676,Miguel Flores,0,93650,682344
+677,Carla,0,2507457,682344
+678,Luis,0,103433,682344
+679,Gustavo,0,589487,682344
+680,Mery Oliva,0,2982709,682344
+681,Curious George (voice),0,15831,918832
+682,Captain Elmer (voice),0,2229812,918832
+683,Gertrude St. John(voice),0,13299,918832
+684,Rocco (voice),0,1014738,918832
+685,Ted (voice),0,34982,918832
+686,Hathaway Noa (voice),0,1065297,685274
+687,Gigi Andalucia (voice),0,1452028,685274
+688,Kenneth Sleg (voice),0,9721,685274
+689,Lane Aim (voice),0,1388751,685274
+690,Mace Flower,0,1588597,685274
+691,Georgia,0,56734,739413
+692,Sam,0,1377458,739413
+693,Arthur,0,557579,739413
+694,Lisa,0,2864859,739413
+695,Derrick,0,1730745,739413
+696,Son Goku / Son Gohan / Son Goten (voice),0,90496,610150
+697,Piccolo (voice),0,85286,610150
+698,Pan (voice),0,90569,610150
+699,Gamma #1 (voice),0,93801,610150
+700,Gamma #2 (voice),0,93803,610150
+701,Newt Scamander,0,37632,259316
+702,Porpentina 'Tina' Goldstein,0,77795,259316
+703,Jacob Kowalski,0,58873,259316
+704,Queenie Goldstein,0,998225,259316
+705,Percival Graves,0,72466,259316
+706,Zhenya,0,2097313,633802
+707,Kir,0,2202678,633802
+708,Viktor,0,1626928,633802
+709,Sonya,0,2017467,633802
+710,Pastor,0,1034698,633802
+711,Charlie McGee,0,2072566,532710
+712,Andy McGee,0,29222,532710
+713,Vicky Tomlinson-McGee,0,1303156,532710
+714,Dr. Joseph Wanless,0,2115,532710
+715,John Rainbird,0,154647,532710
+716,Crystal,0,92572,514847
+717,Athena,0,448,514847
+718,Gary,0,824,514847
+719,Liberty,0,565501,514847
+720,Staten Island,0,198150,514847
+721,Kat Valdez,0,16866,615904
+722,Charlie Gilbert,0,887,615904
+723,Bastian,0,2362790,615904
+724,Colin,0,1010135,615904
+725,Parker Debbs,0,7404,615904
+726,Rick Calloway,0,46593,871799
+727,John Calloway,0,3036,871799
+728,Mike Breslin,0,1300650,871799
+729,Zoe Carter,0,1718567,871799
+730,John,0,78142,871799
+731,Kevin Schlieb,0,1274508,739993
+732,Emily Spector,0,2284412,739993
+733,Hunter Sylvester,0,2990680,739993
+734,Clay Moss,0,1158064,739993
+735,Rocky 'Skip' Hoffman,0,2560675,739993
+736,El,0,1643043,756187
+737,Kira King,0,1887533,756187
+738,Zelly,0,1094134,756187
+739,Sami,0,1352921,756187
+740,Liv,0,2505489,756187
+741,Raya (voice),0,1663195,527774
+742,Sisu (voice),0,1625558,527774
+743,Boun (voice),0,2362044,527774
+744,Namaari (voice),0,97576,527774
+745,Benja (voice),0,18307,527774
+746,Dan Forester,0,73457,588228
+747,Colonel Muri Forester,0,63312,588228
+748,James Forester,0,18999,588228
+749,Emmy Forester,0,92572,588228
+750,Charlie,0,1429453,588228
+751,Thomas,0,527393,198663
+752,Teresa Agnes,0,115150,198663
+753,Minho,0,1310760,198663
+754,Alby,0,78062,198663
+755,Chuck,0,1389339,198663
+756,"Alison ""Ali"" Davis",0,40036,487297
+757,Will,0,83860,487297
+758,Brandon Wallace,0,1180979,487297
+759,Sister,0,4237,487297
+760,Skip Davis,0,6487,487297
+761,Alberto Scorfano (voice),0,1774679,876716
+762,Massimo Marcovaldo (voice),0,2990412,876716
+763,Luca Paguro (voice),0,1277188,876716
+764,Additional Voices (voice),0,2077906,876716
+765,Additional Voices (voice),0,3331781,876716
+766,Locque,0,1061495,820511
+767,Rees,0,3059453,820511
+768,Miss Levine,0,1803458,820511
+769,Stubb,0,1443617,820511
+770,Elizabeth,0,2358150,820511
+771,Amanda,0,25540,751237
+772,Chris,0,205955,751237
+773,Danny,0,20212,751237
+774,River,0,1121786,751237
+775,Amanda’s Mom / Umma,0,2727080,751237
+776,"Dylan ""D"" Forrester",0,928572,763788
+777,Dr. Alderwood,0,2461,763788
+778,Sheriff McCoy,0,8169,763788
+779,Cole,0,79072,763788
+780,Agent Shaughnessy,0,10696,763788
+781,Harry Potter,0,10980,671
+782,Ron Weasley,0,10989,671
+783,Hermione Granger,0,10990,671
+784,Albus Dumbledore,0,194,671
+785,Draco Malfoy,0,10993,671
+786,Marinette / Ladybug (voice),0,1762588,726684
+787,Adrien Agreste / Cat Noir (voice),0,1558832,726684
+788,Gabriel Agreste,0,1343544,726684
+789,Tikki,0,79077,726684
+790,Plagg,0,1379386,726684
+791,Irene,0,1757167,800407
+792,,0,2990289,800407
+793,,0,1744390,800407
+794,,0,970027,800407
+795,,0,34053,800407
+796,Grug Crood (voice),0,2963,529203
+797,Eep Crood (voice),0,54693,529203
+798,Guy (voice),0,10859,529203
+799,Phil Betterman (voice),0,22970,529203
+800,Hope Betterman (voice),0,41087,529203
+801,Naruto Uzumaki (voice),0,82055,317442
+802,Hinata Hyūga (voice),0,24651,317442
+803,Toneri Ōtsutsuki (voice),0,131563,317442
+804,Sakura Haruno (voice),0,82057,317442
+805,Shikamaru Nara (voice),0,9714,317442
+806,Hercule Poirot,0,11181,505026
+807,Linnet Ridgeway,0,90633,505026
+808,Simon Doyle,0,53807,505026
+809,Jacqueline de Bellefort,0,2201315,505026
+810,Bouc,0,1364004,505026
+811,Coraline Jones (voice),0,501,14836
+812,Mel Jones / Other Mother (voice),0,10742,14836
+813,Cat (voice),0,65827,14836
+814,April Spink (voice),0,12094,14836
+815,Mr. Sergei Alexander Bobinsky / Other Bobinsky (voice),0,6972,14836
+816,Lisa,0,1165384,523936
+817,Adam,0,11263,523936
+818,Nina,0,3026410,523936
+819,Adam brûlé,0,3082176,523936
+820,Le père,0,2224574,523936
+821,Izuku Midoriya (voice),0,1325962,592350
+822,Katsuki Bakugo (voice),0,1245094,592350
+823,Nine (voice),0,2040402,592350
+824,Slice (voice),0,1919754,592350
+825,Katsuma (voice),0,1247771,592350
+826,H,0,976,637649
+827,Bullet,0,7497,637649
+828,Jan,0,928572,637649
+829,Jackson,0,52886,637649
+830,Boy Sweat Dave,0,2299,637649
+831,Marinette / Ladybug (voice),0,1762588,755812
+832,Adrien Agreste / Cat Noir (voice),0,1558832,755812
+833,Sara,0,866134,775943
+834,Óscar,0,1018723,775943
+835,Alicia,0,2893049,775943
+836,Tomás,0,2893050,775943
+837,Tarumama,0,2893051,775943
+838,Maddie (voice),0,52848,770254
+839,Pretty Boy (voice),0,89564,770254
+840,Chaz (voice),0,8783,770254
+841,Frank (voice),0,529,770254
+842,Zoe (voice),0,1058107,770254
+843,Evan McCauley,0,13240,581726
+844,Bathurst 2020,0,5294,581726
+845,Nora Brightman,0,1282054,581726
+846,Heinrich Treadway,0,527393,581726
+847,Porter,0,13014,581726
+848,Sir Jean de Carrouges,0,1892,617653
+849,Jacques Le Gris,0,1023139,617653
+850,Marguerite de Carrouges,0,1388593,617653
+851,Nicole de Carrouges,0,17477,617653
+852,Pierre d'Alençon,0,880,617653
+853,The Blind Man,0,32747,482373
+854,Raylan,0,2839,482373
+855,Phoenix,0,2396546,482373
+856,Hernandez,0,2041321,482373
+857,Duke,0,1629429,482373
+858,Peter Parker / Spider-Man,0,37625,1930
+859,Gwen Stacy,0,54693,1930
+860,Dr. Curt Connors / The Lizard,0,7026,1930
+861,Captain Stacy,0,5724,1930
+862,Uncle Ben,0,8349,1930
+863,Snake Eyes,0,1807132,568620
+864,Tommy / Storm Shadow,0,1658375,568620
+865,Akiko,0,1168128,568620
+866,The Baroness,0,1042728,568620
+867,Scarlett,0,1372369,568620
+868,Newt Scamander,0,37632,338952
+869,Porpentina 'Tina' Goldstein,0,77795,338952
+870,Jacob Kowalski,0,58873,338952
+871,Queenie Goldstein,0,998225,338952
+872,Gellert Grindelwald,0,85,338952
+873,Hutch Mansell,0,59410,615457
+874,Becca Mansell,0,935,615457
+875,David Mansell,0,1062,615457
+876,Yulian Kuznetsov,0,113332,615457
+877,,0,113788,859041
+878,,0,2869013,859041
+879,,0,52908,859041
+880,,0,1448783,859041
+881,,0,109434,859041
+882,Self - Fertility Doctor,0,3510628,962697
+883,Self,0,3510630,962697
+884,Self,0,3510631,962697
+885,Self,0,3510632,962697
+886,Self,0,3510633,962697
+887,Naruto Uzumaki (voice),0,82055,20982
+888,Sakura Haruno (voice),0,82057,20982
+889,Rock Lee (voice),0,89971,20982
+890,Neji Hyûga (voice),0,550662,20982
+891,Shion (voice),0,89835,20982
+892,Vanessa Reid,0,216988,839436
+893,Libby Thornton,0,2760967,839436
+894,Nicole Folland,0,3122182,839436
+895,Lexy Warren,0,3122184,839436
+896,Linda,0,3122187,839436
+897,Guy,0,258,631843
+898,Prisca,0,1080195,631843
+899,Charles,0,17328,631843
+900,Trent Aged 15,0,934281,631843
+901,Maddox Aged 16,0,1356758,631843
+902,Boruto Uzumaki (voice),0,1201637,347201
+903,Sarada Uchiha (voice),0,1246233,347201
+904,Naruto Uzumaki (voice),0,82055,347201
+905,Sasuke Uchiha (voice),0,82056,347201
+906,Momoshiki (voice),0,110665,347201
+907,Tony Stark / Iron Man,0,3223,99861
+908,Thor Odinson,0,74568,99861
+909,Bruce Banner / The Hulk,0,103,99861
+910,Steve Rogers / Captain America,0,16828,99861
+911,Natasha Romanoff / Black Widow,0,1245,99861
+912,Wade Wilson / Deadpool,0,10859,293660
+913,Vanessa,0,54882,293660
+914,Ajax,0,1047649,293660
+915,Weasel,0,51990,293660
+916,Angel Dust,0,78452,293660
+917,Jordan Belfort,0,6193,106646
+918,Donnie Azoff,0,21007,106646
+919,Naomi Lapaglia,0,234352,106646
+920,Mark Hanna,0,10297,106646
+921,Agent Patrick Denham,0,3497,106646
+922,Jack Dawson,0,6193,597
+923,Rose DeWitt Bukater,0,204,597
+924,Cal Hockley,0,1954,597
+925,Molly Brown,0,8534,597
+926,Ruth Dewitt Bukater,0,3713,597
+927,Yuri Boyka,0,78110,38234
+928,Turbo,0,61856,38234
+929,Gaga,0,6696,38234
+930,Warden Kuss,0,8775,38234
+931,Raul 'Dolor' Quinones,0,118370,38234
+932,Miguel Rivera (voice),0,1193391,354912
+933,Héctor (voice),0,258,354912
+934,Ernesto de la Cruz (voice),0,4589,354912
+935,Mamá Imelda Rivera (voice),0,10402,354912
+936,Elena Rivera (voice),0,154004,354912
+937,Carol Cobb,0,543261,765119
+938,Krystal Kris,0,963429,765119
+939,Darren Eigen,0,61110,765119
+940,Anika,0,2408703,765119
+941,Ronjon,0,119828,765119
+942,Grandad / Patrick (voice),0,517,756403
+943,Keegan (voice),0,1936497,756403
+944,Moya (voice),0,3015225,756403
+945,Penny (voice),0,1576058,756403
+946,Benny (voice),0,1488960,756403
+947,Jim,0,2407771,776797
+948,Kat,0,2874730,776797
+949,Molly,0,2896620,776797
+950,Business Man,0,2889663,776797
+951,Warren Liu,0,1260978,776797
+952,Phong,0,566091,895001
+953,Wan,0,3299568,895001
+954,Pim,0,1354321,895001
+955,Putt,0,1601205,895001
+956,Mai,0,1266074,895001
+957,Ben,0,1118978,672582
+958,Tina,0,1128902,672582
+959,Pierre Montégnac,0,136438,672582
+960,Sarah Montégnac,0,3171959,672582
+961,Mister Montégnac,0,3283766,672582
+962,Harry Potter,0,10980,673
+963,Ron Weasley,0,10989,673
+964,Hermione Granger,0,10990,673
+965,Rubeus Hagrid,0,1923,673
+966,Albus Dumbledore,0,5658,673
+967,"Eugenia ""Skeeter"" Phelan",0,54693,50014
+968,Aibileen Clark,0,19492,50014
+969,Minny Jackson,0,6944,50014
+970,Hilly Holbrook,0,18997,50014
+971,Celia Foote,0,83002,50014
+972,Woody (voice),0,31,862
+973,Buzz Lightyear (voice),0,12898,862
+974,Mr. Potato Head (voice),0,7167,862
+975,Slinky Dog (voice),0,12899,862
+976,Rex (voice),0,12900,862
+977,Finn Bergmann,0,1686299,926980
+978,Lena,0,1291450,926980
+979,Samira Steinke,0,1825263,926980
+980,Sophie Bergmann,0,150806,926980
+981,Yvonne Bergmann,0,1385586,926980
+982,Laura,0,1511997,754934
+983,Paul,0,46593,754934
+984,David,0,2444662,754934
+985,Steve,0,1514101,754934
+986,Jimmy Naegle,0,1772069,754934
+987,Mink,0,3131642,745881
+988,Nim,0,2424471,745881
+989,Noi,0,3131643,745881
+990,Manit,0,3131644,745881
+991,Desmond T. Doss,0,37625,324786
+992,Captain Glover,0,65731,324786
+993,Sergeant Howell,0,4937,324786
+994,Dorothy Schuttle,0,20374,324786
+995,Smitty Ryker,0,972356,324786
+996,JJ / Justin,0,569,762433
+997,Laughing Russian Agent,0,2313632,762433
+998,Luciano,0,56843,762433
+999,Lu Bu,0,78875,525660
+1000,Cao Cao,0,1559226,525660
+1001,Liu Bei,0,96958,525660
+1002,Guan Yu,0,937809,525660
+1003,Yuan Shao,0,78877,525660
+1004,James 'Sulley' Sullivan (voice),0,1230,585
+1005,Mike Wazowski (voice),0,7904,585
+1006,Mary 'Boo' (voice),0,7905,585
+1007,Randall Boggs (voice),0,884,585
+1008,Henry J. Waternoose III (voice),0,5563,585
+1009,John Koestler,0,2963,13811
+1010,Diana Wayland,0,9827,13811
+1011,Caleb Koestler,0,77334,13811
+1012,Phil Bergman,0,77335,13811
+1013,Grace Koestler,0,77336,13811
+1014,Mickey Mouse (voice),0,1217648,939336
+1015,Minnie Mouse (voice),0,1382187,939336
+1016,Goofy (voice),0,84213,939336
+1017,Donald Duck (voice),0,34478,939336
+1018,Snowflake Boss (voice),0,64342,939336
+1019,Trini,0,1049537,949218
+1020,Luna,0,1357758,949218
+1021,Julia,0,118371,949218
+1022,Milagros,0,941639,949218
+1023,Clarita,0,141186,949218
+1024,Doctor Strange (voice),0,65769,14830
+1025,Wong (voice),0,80122,14830
+1026,Mordo (voice),0,24362,14830
+1027,Ancient One (voice),0,80123,14830
+1028,Dr. Gina Atwater (voice),0,1310333,14830
+1029,Walter Stürm,0,223477,747440
+1030,Heike Vollmer,0,912632,747440
+1031,Peter Rothenburg,0,62892,747440
+1032,Barbara Hug,0,90119,747440
+1033,Meret Spengler,0,32421,747440
+1034,Quinn (voice),0,198847,823610
+1035,Claggart (voice),0,18999,823610
+1036,Grimes (voice),0,29528,823610
+1037,Beth (voice),0,109869,823610
+1038,Geraldo (voice),0,9657,823610
+1039,Adela,0,57409,602223
+1040,Juan,0,87265,602223
+1041,Dylan Tucker,0,6164,602223
+1042,Harper Tucker,0,207401,602223
+1043,Emma Kate,0,138770,602223
+1044,Alex,0,77517,821427
+1045,Jamie,0,1369336,821427
+1046,Dani,0,2881864,821427
+1047,Coach Pete,0,51937,821427
+1048,Coach Edwards,0,984711,821427
+1049,Marcia,0,544440,671318
+1050,Tomás,0,175615,671318
+1051,Jero,0,1134885,671318
+1052,Reina,0,1251056,671318
+1053,Juan Pablo,0,133762,671318
+1054,Tessa Young,0,1753914,744276
+1055,Hardin Scott,0,1114487,744276
+1056,Landon Gibson,0,2035329,744276
+1057,Robert,0,86653,744276
+1058,Nora,0,142115,744276
+1059,Artemis,0,63,458576
+1060,The Hunter,0,57207,458576
+1061,Admiral,0,2372,458576
+1062,Lincoln,0,76126,458576
+1063,Marshall,0,935201,458576
+1064,Harry Potter,0,10980,674
+1065,Ron Weasley,0,10989,674
+1066,Hermione Granger,0,10990,674
+1067,Rubeus Hagrid,0,1923,674
+1068,Lord Voldemort,0,5469,674
+1069,Dr. Samuel Rainsford,0,2203,763164
+1070,Thomas Malone,0,62,763164
+1071,West,0,203630,763164
+1072,Bishop,0,63564,763164
+1073,Amy Maine,0,86206,44918
+1074,James Maine,0,52374,44918
+1075,Dr. Kim Patterson,0,78837,44918
+1076,Kelly Wade,0,131734,44918
+1077,Laurie Strode,0,8944,610253
+1078,Karen Nelson,0,20750,610253
+1079,Allyson Nelson,0,1511997,610253
+1080,The Shape,0,1267684,610253
+1081,Peter Parker / Spider-Man,0,1136406,315635
+1082,Adrian Toomes / Vulture,0,2232,315635
+1083,Tony Stark / Iron Man,0,3223,315635
+1084,May Parker,0,3141,315635
+1085,Harold 'Happy' Hogan,0,15277,315635
+1086,Harry Potter,0,10980,672
+1087,Ron Weasley,0,10989,672
+1088,Hermione Granger,0,10990,672
+1089,Gilderoy Lockhart,0,11181,672
+1090,Nearly Headless Nick (Sir Nicholas),0,8930,672
+1091,Jay Height,0,1094091,270303
+1092,Paul,0,132712,270303
+1093,Greg Hannigan,0,1172147,270303
+1094,Hugh,0,133980,270303
+1095,Yara,0,1210610,270303
+1096,Willy Wonka,0,85,118
+1097,Charlie Bucket,0,1281,118
+1098,Grandpa Joe,0,1282,118
+1099,Mrs. Bucket,0,1283,118
+1100,Mr. Bucket,0,1284,118
+1101,Kumi Asai,0,552635,405869
+1102,Kirino,0,1050744,405869
+1103,Tsunehiko Kitami,0,1168248,405869
+1104,Ishioka,0,551500,405869
+1105,Claire,0,1803286,670429
+1106,Fiona,0,1371456,670429
+1107,Martha,0,31167,670429
+1108,Shae,0,3263469,670429
+1109,Corey,0,1696015,670429
+1110,Tessa Young,0,1753914,613504
+1111,Hardin Scott,0,1114487,613504
+1112,Trevor Matthews,0,95686,613504
+1113,Trish Daniels,0,20805,613504
+1114,Christian Vance,0,147404,613504
+1115,Toto (voice),0,52745,573164
+1116,Di (voice),0,970753,573164
+1117,Willy (voice),0,80737,573164
+1118,Bibi (voice),0,80738,573164
+1119,Duquesa (voice),0,1872931,573164
+1120,Kayla Forrester,0,56734,587807
+1121,Terence Mendoza,0,454,587807
+1122,Ben,0,1226277,587807
+1123,Henry Dubros,0,1091324,587807
+1124,Chef Jackie,0,83586,587807
+1125,Evelyn Abbott,0,5081,520763
+1126,Emmett,0,2037,520763
+1127,Regan Abbott,0,1815539,520763
+1128,Marcus Abbott,0,1590759,520763
+1129,Man on Island,0,938,520763
+1130,Poppy (voice),0,84223,896221
+1131,Branch (voice),0,12111,896221
+1132,Tiny Diamond (voice),0,77330,896221
+1133,Rhyme-a-saurus (voice),0,1978406,896221
+1134,Windbreeze (voice),0,14837,896221
+1135,Evelyn Wang,0,1620,545611
+1136,Joy Wang / Jobu Tupaki,0,1381186,545611
+1137,Waymond Wang,0,690,545611
+1138,Gong Gong,0,20904,545611
+1139,Deirdre Beaubeirdra,0,8944,545611
+1140,Ludwig Dieter,0,16808,796499
+1141,Gwendoline,0,1251069,796499
+1142,Korina,0,229396,796499
+1143,Brad Cage,0,1403559,796499
+1144,Rolph,0,2037501,796499
+1145,Connor,0,6863,864116
+1146,Alston,0,62,864116
+1147,Pettis,0,12974,864116
+1148,Mason,0,81685,864116
+1149,Tim,0,1138751,864116
+1150,John Bennett,0,13240,214756
+1151,Ted (voice),0,52139,214756
+1152,Samantha Jackson,0,71070,214756
+1153,Patrick Meighan,0,192,214756
+1154,Tami-Lynn,0,207150,214756
+1155,Owen Grady,0,73457,135397
+1156,Claire Dearing,0,18997,135397
+1157,Gray Mitchell,0,17181,135397
+1158,Zach Mitchell,0,1108907,135397
+1159,Vic Hoskins,0,7132,135397
+1160,Diana Prince / Wonder Woman,0,90633,464052
+1161,Steve Trevor,0,62064,464052
+1162,Barbara Minerva / Cheetah,0,41091,464052
+1163,Maxwell Lord,0,1253360,464052
+1164,Antiope,0,32,464052
+1165,Usagi Tsukino / Super Sailor Moon / Eternal Sailor Moon (voice),0,77931,784500
+1166,Chibi-Usa / Super Sailor Chibi Moon (voice),0,219575,784500
+1167,Ami Mizuno / Sailor Mercury (voice),0,1116333,784500
+1168,Rei Hino / Sailor Mars (voice),0,1241566,784500
+1169,Makoto Kino / Sailor Jupiter (voice),0,1220947,784500
+1170,Jennifer,0,136347,522444
+1171,Eric,0,1181361,522444
+1172,Yolanda,0,1236816,522444
+1173,Viktor,0,1979469,522444
+1174,Cash,0,2272447,522444
+1175,Harry Potter,0,10980,767
+1176,Ron Weasley,0,10989,767
+1177,Hermione Granger,0,10990,767
+1178,Bellatrix Lestrange,0,1283,767
+1179,Horace Slughorn,0,388,767
+1180,Tony Stark / Iron Man,0,3223,10138
+1181,Virginia 'Pepper' Potts,0,12052,10138
+1182,James 'Rhodey' Rhodes / War Machine,0,1896,10138
+1183,Natalie Rushman / Natasha Romanoff / Black Widow,0,1245,10138
+1184,Justin Hammer,0,6807,10138
+1185,Rivers,0,1248,760195
+1186,Jeff,0,36669,760195
+1187,Samantha,0,1443712,760195
+1188,Jenny,0,2131391,760195
+1189,Maggie,0,47281,760195
+1190,Parker Zahn,0,3148142,848278
+1191,Torres,0,1186714,848278
+1192,Valentine,0,1875337,848278
+1193,Lindon,0,1299438,848278
+1194,Blackhawk,0,2052540,848278
+1195,"Femme soldat (""Prototype"") / Kelly (""The Package"")",0,201838,573531
+1196,Master Chief,0,159277,573531
+1197,"Spartan (""The Babysitter"")",0,1081918,573531
+1198,Cortana / Dr. Halsey,0,557295,573531
+1199,"Haka (segment ""The Duel"")",0,2559814,573531
+1200,Lia,0,999790,793967
+1201,,0,1514065,793967
+1202,Emma,0,54716,793967
+1203,Natalie,0,180279,793967
+1204,Alma,0,233278,793967
+1205,Harry Potter,0,10980,12445
+1206,Ron Weasley,0,10989,12445
+1207,Hermione Granger,0,10990,12445
+1208,Lord Voldemort,0,5469,12445
+1209,Bellatrix Lestrange,0,1283,12445
+1210,Shrek (voice),0,12073,808
+1211,Donkey (voice),0,776,808
+1212,Princess Fiona (voice),0,6941,808
+1213,Lord Farquaad (voice),0,12074,808
+1214,Monsieur Hood (voice),0,1925,808
+1215,Dracula (voice),0,1592584,813258
+1216,Additional Monster Pets (voice),0,1836598,813258
+1217,Taki Tachibana (voice),0,225730,372058
+1218,Mitsuha Miyamizu (voice),0,1369100,372058
+1219,Katsuhiko Teshigawara (voice),0,1668610,372058
+1220,Sayaka Natori (voice),0,936275,372058
+1221,Tsukasa Fujii (voice),0,1210634,372058
+1222,Steve Rogers / Captain America,0,16828,271110
+1223,Tony Stark / Iron Man,0,3223,271110
+1224,Natasha Romanoff / Black Widow,0,1245,271110
+1225,James 'Bucky' Barnes / Winter Soldier,0,60898,271110
+1226,Sam Wilson / Falcon,0,53650,271110
+1227,Lt. Pete 'Maverick' Mitchell,0,500,744
+1228,Charlotte 'Charlie' Blackwood,0,11084,744
+1229,Lt. Tom 'Iceman' Kazanski,0,5576,744
+1230,Lt. Nick 'Goose' Bradshaw,0,11085,744
+1231,Cdr. Mike 'Viper' Metcalf,0,4139,744
+1232,Peter Parker / Spider-Man,0,1136406,429617
+1233,Nick Fury,0,2231,429617
+1234,Quentin Beck / Mysterio,0,131,429617
+1235,May Parker,0,3141,429617
+1236,Harold 'Happy' Hogan,0,15277,429617
+1237,Bella Swan,0,37917,24021
+1238,Edward Cullen,0,11288,24021
+1239,Jacob Black,0,84214,24021
+1240,Alice Cullen,0,45827,24021
+1241,Carlisle Cullen,0,56857,24021
+1242,Joe Gardner (voice),0,134,508442
+1243,22 (voice),0,56323,508442
+1244,Moonwind (voice),0,78577,508442
+1245,Terry (voice),0,15298,508442
+1246,Counselor Jerry (voice),0,8602,508442
+1247,Taichi Yagami (voice),0,1256603,571265
+1248,Hikari Yagami (voice),0,1161472,571265
+1249,Sora Takenouchi (voice),0,1498127,571265
+1250,Yamato Ishida (voice),0,1253008,571265
+1251,Takeru Takaishi (voice),0,1606164,571265
+1252,Carly,0,43903,774021
+1253,Angela,0,97599,774021
+1254,Martin,0,152820,774021
+1255,Michael,0,134708,774021
+1256,Sam,0,52507,774021
+1257,SpongeBob SquarePants / Gary the Snail (voice),0,78798,400160
+1258,Patrick Star (voice),0,34398,400160
+1259,Squidward Tentacles (voice),0,70615,400160
+1260,Plankton (voice),0,188229,400160
+1261,Sage,0,6384,400160
+1262,Bobby,0,226564,928769
+1263,Lana,0,127449,928769
+1264,Alan,0,1854214,928769
+1265,The Hawk,0,1051833,928769
+1266,Mr. Wilson,0,521673,928769
+1267,Roger,0,592458,81774
+1268,Ursule,0,41163,81774
+1269,La mère,0,9919,81774
+1270,Mme Muller,0,14813,81774
+1271,Le père,0,32043,81774
+1272,Ava,0,1800818,453354
+1273,Juan,0,1055917,453354
+1274,Maud,0,983929,453354
+1275,Jessica,0,1824551,453354
+1276,,0,1967708,453354
+1277,Amalie,0,1565231,785521
+1278,Mikael,0,2005968,785521
+1279,Vivian,0,79331,785521
+1280,Josef,0,2187374,785521
+1281,Alex,0,3306511,785521
+1282,Son Goku / Son Gohan / Son Goten (voice),0,90496,126963
+1283,Bills (voice),0,20664,126963
+1284,Whis (voice),0,78402,126963
+1285,Vegeta (voice),0,122501,126963
+1286,Bulma Briefs (voice),0,122193,126963
+1287,Amina,0,2010333,885110
+1288,Danjuma,0,1588028,885110
+1289,Zumbura,0,2054686,885110
+1290,Sarki,0,3271327,885110
+1291,Madaki,0,3271328,885110
+1292,Woo Moo-Chi,0,1257899,591120
+1293,Hae-Rang,0,240145,591120
+1294,Mak-Yi,0,1326172,591120
+1295,Bu Heung-Soo,0,1233094,591120
+1296,So-Nyeo,0,1466233,591120
+1297,Ava,0,83002,539885
+1298,Duke,0,6949,539885
+1299,Simon,0,72466,539885
+1300,Michael,0,4238,539885
+1301,Bobbi,0,16935,539885
+1302,Selina Kyle / Catwoman (voice),0,206399,862491
+1303,Kate Kane / Batwoman (voice),0,968367,862491
+1304,Roman Sionis / Black Mask (voice),0,783,862491
+1305,Solomon Grundy/ Abaddon / Pilot (voice),0,571562,862491
+1306,Julia Pennyworth (voice),0,62220,862491
+1307,Simba (voice),0,4756,8587
+1308,King Mufasa (voice),0,15152,8587
+1309,Scar (voice),0,16940,8587
+1310,Zazu the Hornbill (voice),0,10730,8587
+1311,Young Nala (voice),0,56043,8587
+1312,Pennywise,0,137905,474350
+1313,Bill Denbrough,0,5530,474350
+1314,Beverly Marsh,0,83002,474350
+1315,Richie Tozier,0,19278,474350
+1316,Mike Hanlon,0,1237603,474350
+1317,Lucky Prescott (voice),0,1428070,637693
+1318,Jim Prescott (voice),0,131,637693
+1319,Aunt Cora (voice),0,1231,637693
+1320,Prudence Granger (voice),0,1407498,637693
+1321,Abigail Stone (voice),0,1172108,637693
+1322,Grand High Witch,0,1813,531219
+1323,Grandma,0,6944,531219
+1324,Mr Stringer,0,2283,531219
+1325,Hero Boy,0,2241218,531219
+1326,Older Hero (voice),0,2632,531219
+1327,Thor Odinson,0,74568,284053
+1328,Loki,0,91606,284053
+1329,Hela,0,112,284053
+1330,Scrapper 142 / Valkyrie,0,62561,284053
+1331,En Dwi Gast / Grandmaster,0,4785,284053
+1332,Tessa Young,0,1753914,537915
+1333,Hardin Scott,0,1114487,537915
+1334,Landon Gibson,0,1684130,537915
+1335,Steph Jones,0,2161745,537915
+1336,Noah Porter,0,1039523,537915
+1337,Man-soo,0,1248450,623135
+1338,Dong-won,0,1024396,623135
+1339,Manager Kim,0,1326172,623135
+1340,Eun-joo,0,1872378,623135
+1341,Seung-tae,0,1510020,623135
+1342,Satoshi (voice),0,65424,571891
+1343,Pikachu (voice),0,73044,571891
+1344,Kasumi (voice),0,65426,571891
+1345,Togepi (voice),0,217924,571891
+1346,Takeshi (voice),0,65427,571891
+1347,Ariana,0,1255083,944664
+1348,Salvador Campodónico,0,1248277,944664
+1349,Lichi,0,1066905,944664
+1350,Alberto,0,2264687,944664
+1351,Sofía,0,1603916,944664
+1352,Paul,0,57171,826749
+1353,Robert,0,62,826749
+1354,Balzary,0,62747,826749
+1355,Kate,0,1278867,826749
+1356,Ulysses,0,1160181,826749
+1357,Thomas,0,1894422,783558
+1358,Docteur Reinhard,0,70165,783558
+1359,Marcus,0,2933153,783558
+1360,Julie,0,1716235,783558
+1361,Maïssa,0,7284,783558
+1362,Loki (voice),0,91606,846214
+1363,Homer Simpson / Barney Gumble (voice),0,198,846214
+1364,Bart Simpson / Ralph Wiggum (voice),0,200,846214
+1365,Lisa Simpson (voice),0,5586,846214
+1366,Odin (voice),0,34521,846214
+1367,Harry Potter,0,10980,675
+1368,Ron Weasley,0,10989,675
+1369,Hermione Granger,0,10990,675
+1370,Bellatrix Lestrange,0,1283,675
+1371,Rubeus Hagrid,0,1923,675
+1372,Shrek (voice),0,12073,809
+1373,Donkey (voice),0,776,809
+1374,Princess Fiona (voice),0,6941,809
+1375,Queen (voice),0,5823,809
+1376,Puss in Boots (voice),0,3131,809
+1377,Tony,0,1159982,511809
+1378,Maria,0,2217977,511809
+1379,Valentina,0,13299,511809
+1380,Anita,0,1437491,511809
+1381,Bernardo,0,2225865,511809
+1382,Baymax (voice),0,66580,177572
+1383,Hiro Hamada (voice),0,515510,177572
+1384,Tadashi Hamada (voice),0,82093,177572
+1385,Fred (voice),0,51990,177572
+1386,GoGo Tomago (voice),0,78324,177572
+1387,Self (archive footage),0,3149,953300
+1388,Self (archive footage),0,932497,953300
+1389,Self (archive footage),0,21111,953300
+1390,Joan Greenson,0,1028366,953300
+1391,Eddie Brock / Venom,0,2524,335983
+1392,Anne Weying,0,1812,335983
+1393,Carlton Drake / Riot,0,53240,335983
+1394,Security Chief Roland Treece,0,87954,335983
+1395,Dr. Dan Lewis,0,81316,335983
+1396,Thomas Kub,0,1142720,57214
+1397,Costa,0,225694,57214
+1398,JB,0,225695,57214
+1399,Dax,0,996700,57214
+1400,Kirby,0,131771,57214
+1401,Shaggy Rogers (voice),0,26457,843906
+1402,Muriel Bagge / Rich Old Lady (voice),0,1229071,843906
+1403,Daphne Blake / Frau Glockenspiel (voice),0,15761,843906
+1404,Scooby-Doo / Fred Jones (voice),0,15831,843906
+1405,Velma Dinkley (voice),0,132354,843906
+1406,Thor Odinson,0,74568,10195
+1407,Jane Foster,0,524,10195
+1408,Loki,0,91606,10195
+1409,Odin,0,4173,10195
+1410,Erik Selvig,0,1640,10195
+1411,Jennifer Farber Dulos,0,49425,831223
+1412,Fotis Dulos,0,232525,831223
+1413,Audrey,0,25872,831223
+1414,Detective Lisa Perez,0,1908755,831223
+1415,Detective Mike Sloan,0,2447703,831223
+1416,Yuri Boyka,0,78110,348893
+1417,Alma,0,1255958,348893
+1418,Zourab,0,16607,348893
+1419,Slava,0,105692,348893
+1420,Koshmar,0,1510237,348893
+1421,Harry Potter,0,10980,12444
+1422,Ron Weasley,0,10989,12444
+1423,Hermione Granger,0,10990,12444
+1424,Bellatrix Lestrange,0,1283,12444
+1425,Rubeus Hagrid,0,1923,12444
+1426,Igor Grom,0,118333,529106
+1427,Yuliya Pchelkina,0,1318905,529106
+1428,Inspector Fyodor Prokopenko,0,29837,529106
+1429,Dima Dubin,0,2203226,529106
+1430,Sergey Razumovsky,0,2217012,529106
+1431,Ainbo,0,2907001,588921
+1432,Chuni,0,554413,588921
+1433,DeWitt,0,7572,588921
+1434,Huarinka,0,1346997,588921
+1435,Dillo,0,1305667,588921
+1436,Percy Jackson,0,33235,32657
+1437,Grover Underwood,0,53336,32657
+1438,Annabeth Chase,0,109513,32657
+1439,Luke Castellan,0,105727,32657
+1440,Mr. Brunner / Chiron,0,517,32657
+1441,,0,839684,943158
+1442,,0,3480683,943158
+1443,,0,985166,943158
+1444,,0,1992755,943158
+1445,Bruce Stryker,0,2648049,706972
+1446,DEA Head Craig Ford,0,3197,706972
+1447,Dallas Chapman,0,18589,706972
+1448,Spyder,0,65831,706972
+1449,Kei Kunieda (voice),0,1154449,719088
+1450,Ushio Tsuzuki (voice),0,1221102,719088
+1451,Lorraine Warren,0,21657,138843
+1452,Ed Warren,0,17178,138843
+1453,Carolyn Perron,0,3127,138843
+1454,Roger Perron,0,17402,138843
+1455,Cindy Perron,0,851784,138843
+1456,Wade Wilson / Deadpool / Juggernaut (voice) / Ryan Reynolds,0,10859,383498
+1457,Nathan Summers / Cable,0,16851,383498
+1458,Vanessa Carlysle,0,54882,383498
+1459,Russell Collins / Firefist,0,1139349,383498
+1460,Neena Thurman / Domino,0,1545693,383498
+1461,Tang Huanting,0,18897,604822
+1462,Lei Zhenyu,0,1635792,604822
+1463,Zhang Kaixuan,0,1519031,604822
+1464,Qin Guoli,0,120418,604822
+1465,Miya,0,1764717,604822
+1466,Brad Paxton,0,40276,767304
+1467,Kate Paxton,0,86268,767304
+1468,Ambassador Williams,0,1271,767304
+1469,Younes Laalej,0,2143272,767304
+1470,Ed Paxton,0,8874,767304
+1471,Charlie Kenton,0,6968,39254
+1472,Max Kenton,0,234479,39254
+1473,Bailey Tallet,0,19034,39254
+1474,Ricky,0,79072,39254
+1475,Finn,0,53650,39254
+1476,Elliot Moore,0,13240,8645
+1477,Alma Moore,0,11664,8645
+1478,Julian,0,5723,8645
+1479,Jess,0,18290,8645
+1480,Mrs. Jones,0,52462,8645
+1481,Malik Khan,0,53240,728526
+1482,Hattie,0,6944,728526
+1483,Jay Kahn,0,2670299,728526
+1484,Shepard West,0,51792,728526
+1485,Bobby,0,3227341,728526
+1486,,0,1291890,929472
+1487,,0,2836221,929472
+1488,,0,112566,929472
+1489,Asakura Haruto,0,1434084,890322
+1490,Ariake Misaki,0,1925752,890322
+1491,,0,237363,890322
+1492,,0,1493394,890322
+1493,,0,1574954,890322
+1494,Manny (voice),0,15757,425
+1495,Sid (voice),0,5723,425
+1496,Diego (voice),0,5724,425
+1497,Soto (voice),0,5725,425
+1498,Zeke (voice),0,70851,425
+1499,Lightning McQueen (voice),0,887,260514
+1500,Cruz Ramirez (voice),0,1374727,260514
+1501,Smokey Yunick (voice),0,2955,260514
+1502,Sterling (voice),0,51797,260514
+1503,Mater (voice),0,15897,260514
+1504,Peter Parker / Spider-Man,0,37625,102382
+1505,Gwen Stacy,0,54693,102382
+1506,Max Dillon / Electro,0,134,102382
+1507,Harry Osborn / Green Goblin,0,122889,102382
+1508,Donald Menken,0,10132,102382
+1509,Owen Grady,0,73457,351286
+1510,Claire Dearing,0,18997,351286
+1511,Eli Mills,0,28847,351286
+1512,Mr. Eversoll,0,13014,351286
+1513,Ken Wheatley,0,15854,351286
+1514,Izuku Midoriya (voice),0,1325962,505262
+1515,All Might (voice),0,225603,505262
+1516,Melissa Shield (voice),0,227611,505262
+1517,David Shield (voice),0,91873,505262
+1518,Katsuki Bakugo (voice),0,1245094,505262
+1519,Anna (voice),0,40462,330457
+1520,Elsa (voice),0,19394,330457
+1521,Olaf (voice),0,54415,330457
+1522,Kristoff (voice),0,221611,330457
+1523,Mattias (voice),0,1225953,330457
+1524,Luke Hobbs,0,18918,384018
+1525,Deckard Shaw,0,976,384018
+1526,Brixton,0,17605,384018
+1527,Hattie Shaw,0,556356,384018
+1528,Queenie Shaw,0,15735,384018
+1529,Walt,0,56730,767825
+1530,Sophie,0,1452046,767825
+1531,Calvin Riggins,0,2174509,767825
+1532,Ginny,0,1568101,767825
+1533,Jan,0,87194,767825
+1534,Woody (voice),0,31,863
+1535,Buzz Lightyear (voice),0,12898,863
+1536,Jessie the Yodeling Cowgirl (voice),0,3234,863
+1537,Stinky Pete the Prospector (voice),0,7090,863
+1538,Mr. Potato Head (voice),0,7167,863
+1539,,0,3262374,882206
+1540,,0,3262376,882206
+1541,,0,3262378,882206
+1542,,0,3262379,882206
+1543,,0,3192138,882206
+1544,Dominic Toretto,0,12835,337339
+1545,Deckard Shaw,0,976,337339
+1546,Luke Hobbs,0,18918,337339
+1547,Letty Ortiz,0,17647,337339
+1548,Roman Pearce,0,8169,337339
+1549,Sophia,0,936508,159211
+1550,Helena,0,1140977,159211
+1551,Robert,0,84706,159211
+1552,Patrick,0,25099,159211
+1553,The Fairy,0,1301337,159211
+1554,Kazuma Satou (voice),0,115301,532067
+1555,Megumin (voice),0,1492982,532067
+1556,Aqua (voice),0,1325034,532067
+1557,"Lalatina ""Darkness"" Dustiness Ford (voice)",0,1254671,532067
+1558,Wiz (voice),0,202806,532067
+1559,Pete,0,2043987,611651
+1560,Evie,0,2906991,611651
+1561,Deborah,0,2349188,611651
+1562,Adam,0,2349189,611651
+1563,Nani,0,2349190,611651
+1564,,0,158223,861057
+1565,,0,2061000,861057
+1566,Becky,0,3196738,861057
+1567,Captain Iris,0,1375146,861057
+1568,Officer Parrish,0,2440189,861057
+1569,Ashin,0,63436,845222
+1570,Min Chi-rok,0,564844,845222
+1571,Little Ashin,0,2115785,845222
+1572,Tahab,0,69379,845222
+1573,Aidagan,0,1096458,845222
+1574,Jackson Curtis,0,3036,14161
+1575,Adrian Helmsley,0,5294,14161
+1576,Kate Curtis,0,2956,14161
+1577,Carl Anheuser,0,17485,14161
+1578,Laura Wilson,0,9030,14161
+1579,Emma Wishbone (voice),0,1639,823609
+1580,Frank Wishbone (voice),0,11109,823609
+1581,Fay Wishbone (voice),0,567269,823609
+1582,Baba Yaga (voice),0,47646,823609
+1583,Mila Starr (voice),0,1590758,823609
+1584,Vivien,0,98285,763148
+1585,Roy,0,2849483,763148
+1586,Steve,0,2762412,763148
+1587,Christine,0,2852234,763148
+1588,Neil,0,128225,763148
+1589,Kate,0,1649898,768447
+1590,Beth,0,2860562,768447
+1591,Mary,0,2531837,768447
+1592,Lewis,0,1196611,768447
+1593,Hal,0,1020684,768447
+1594,Don 'Wardaddy' Collier,0,287,228150
+1595,Norman Ellison,0,33235,228150
+1596,Trini 'Gordo' Garcia,0,454,228150
+1597,Boyd 'Bible' Swan,0,10959,228150
+1598,Grady 'Coon-Ass' Travis,0,19498,228150
+1599,Anastasia Steele,0,118545,216015
+1600,Christian Grey,0,1254583,216015
+1601,Carla Wilks,0,49971,216015
+1602,Kate Kavanagh,0,222130,216015
+1603,Jose Rodriguez,0,59251,216015
+1604,Kyle Snowden,0,8169,825997
+1605,Sam Nelson,0,6949,825997
+1606,Sparks,0,64856,825997
+1607,Mikki,0,1149190,825997
+1608,Sunshine,0,141610,825997
+1609,Broly (voice),0,115790,34433
+1610,Son Goku / Son Gohan (voice),0,90496,34433
+1611,Vegeta (voice),0,122501,34433
+1612,Paragus (voice),0,625,34433
+1613,Trunks (voice),0,1686,34433
+1614,Mal (voice),0,1098962,805411
+1615,Evie (voice),0,1331457,805411
+1616,Jay (voice),0,121868,805411
+1617,Ben (voice),0,1421393,805411
+1618,Audrey (voice),0,1331456,805411
+1619,Nate Foster,0,3306755,826953
+1620,Aunt Heidi,0,14406,826953
+1621,Anthony Foster,0,1975658,826953
+1622,Libby,0,2443554,826953
+1623,Rex,0,52020,826953
+1624,Kenshi Reijou,0,1368254,631132
+1625,Goblin Slayer (voice),0,1483496,631132
+1626,Onna Shinkan (voice),0,1057990,631132
+1627,Yousei Yunde (voice),0,1168909,631132
+1628,Majo (voice),0,1072774,631132
+1629,Cha Woo-sol,0,1256347,801604
+1630,Jeong Do-hyeon,0,1557181,801604
+1631,Bae Seok-chan,0,2275300,801604
+1632,An Hyun-min,0,1985544,801604
+1633,Lee Won-joon,0,2286176,801604
+1634,Ariel (voice),0,63978,10144
+1635,Sebastian (voice),0,67392,10144
+1636,Ursula (voice),0,35232,10144
+1637,Prince Eric (voice),0,31468,10144
+1638,King Triton (voice),0,9601,10144
+1639,Veer Sooryavanshi,0,35070,592508
+1640,Ria Sooryavanshi,0,81869,592508
+1641,Bajirao Singham,0,42803,592508
+1642,Sangram 'Simmba' Bhalerao,0,224223,592508
+1643,Omar Hafeez,0,86014,592508
+1644,Eric,0,62747,787310
+1645,Cal,0,1075049,787310
+1646,David,0,62,787310
+1647,Frank,0,929065,787310
+1648,Violet,0,1893351,787310
+1649,Narrator / himself,0,11275,662244
+1650,Remy (voice),0,10872,2062
+1651,Skinner (voice),0,65,2062
+1652,Linguini (voice),0,7962,2062
+1653,Django (voice),0,6197,2062
+1654,Emile (voice),0,21198,2062
+1655,Margaret Tate,0,18277,18240
+1656,Andrew Paxton,0,10859,18240
+1657,Gertrude,0,50463,18240
+1658,Joe Paxton,0,8977,18240
+1659,Grace Paxton,0,2453,18240
+1660,Nikki,0,2096276,929477
+1661,Samantha,0,3391794,929477
+1662,Ty,0,3434839,929477
+1663,Samantha's Mom,0,3434841,929477
+1664,Man on Phone,0,3434842,929477
+1665,Mascarita,0,76857,772436
+1666,Tony el Caníbal,0,105843,772436
+1667,,0,238141,772436
+1668,Son Gokû / Son Gohan / Son Goten (voice),0,90496,44251
+1669,Krillin (voice),0,65510,44251
+1670,Trunks (voice),0,1686,44251
+1671,Videl (voice),0,90569,44251
+1672,Koko (voice),0,1249735,44251
+1673,Gerry Lane,0,287,72190
+1674,Karen Lane,0,175826,72190
+1675,Segen,0,1180907,72190
+1676,Captain Speke,0,18473,72190
+1677,Jim,0,3896,634528
+1678,Sarah,0,26723,634528
+1679,Rosa,0,589722,634528
+1680,Maurico,0,937009,634528
+1681,Miguel,0,2419575,634528
+1682,Gandalf,0,1327,122917
+1683,Bilbo Baggins,0,7060,122917
+1684,Thorin Oakenshield,0,30315,122917
+1685,Legolas,0,114,122917
+1686,Tauriel,0,19034,122917
+1687,Thor Odinson,0,74568,76338
+1688,Jane Foster,0,524,76338
+1689,Loki,0,91606,76338
+1690,Odin,0,4173,76338
+1691,Malekith,0,2040,76338
+1692,Thor Odinson,0,74568,616037
+1693,Jane Foster / Mighty Thor,0,524,616037
+1694,Gorr the God Butcher,0,3894,616037
+1695,King Valkyrie,0,62561,616037
+1696,April O'Neil,0,19537,98566
+1697,Vernon Fenwick,0,21200,98566
+1698,Eric Sacks,0,886,98566
+1699,Leonardo (voice),0,9656,98566
+1700,Leonardo,0,1163622,98566
+1701,Dominic Toretto,0,12835,385687
+1702,Letty Ortiz,0,17647,385687
+1703,Roman Pearce,0,8169,385687
+1704,Tej Parker,0,8171,385687
+1705,Mia Toretto,0,22123,385687
+1706,Thom Laybrick,0,1281,630004
+1707,Lorraine,0,469759,630004
+1708,James,0,32987,630004
+1709,Walter Moreland,0,15498,630004
+1710,Gustavo,0,110129,630004
+1711,Hua Mulan,0,122503,337401
+1712,Hua Zhou,0,21629,337401
+1713,Commander Tung,0,1341,337401
+1714,Xian Niang,0,643,337401
+1715,The Emperor,0,1336,337401
+1716,Mateus,0,2172524,785538
+1717,Luca,0,17289,785538
+1718,Samuel,0,1921253,785538
+1719,Isaque,0,2991249,785538
+1720,Ezequiel,0,3369434,785538
+1721,Nat Love,0,1674162,618162
+1722,Rufus Buck,0,17605,618162
+1723,Trudy Smith,0,9788,618162
+1724,Stagecoach Mary,0,1545693,618162
+1725,Bass Reeves,0,18792,618162
+1726,Sweetie,0,2856455,743439
+1727,The Princess of Barkingburg,0,2856457,743439
+1728,,0,3290060,743439
+1729,,0,2856457,743439
+1730,Babi,0,77122,61979
+1731,Hache,0,82700,61979
+1732,Pollo,0,224874,61979
+1733,Katina,0,234619,61979
+1734,Dani,0,82455,61979
+1735,Ed Warren,0,17178,259693
+1736,Lorraine Warren,0,21657,259693
+1737,Janet Hodgson,0,1330999,259693
+1738,Peggy Hodgson,0,1518,259693
+1739,Maurice Grosse,0,16358,259693
+1740,Jennifer Shaw,0,1262750,630586
+1741,Darius Clemons,0,2120814,630586
+1742,John Venable,0,32029,630586
+1743,Milla D'Angelo,0,968089,630586
+1744,Adam Lucas,0,1737253,630586
+1745,Carmen Farías,0,229614,675024
+1746,Carmen Farías (12 años),0,2113164,675024
+1747,Julián,0,238140,675024
+1748,Padre,0,76872,675024
+1749,Mujer en funeral,0,2887638,675024
+1750,Twigs,0,1213949,887767
+1751,Jody,0,56676,887767
+1752,Jocelyn Miller Callahan,0,3278405,887767
+1753,,0,55086,887767
+1754,,0,6905,887767
+1755,Din (voice),0,447244,550205
+1756,Long (voice),0,68842,550205
+1757,Mom (voice),0,206444,550205
+1758,Lina (voice),0,1583307,550205
+1759,Short Goon / Security Guard 2 (voice),0,1468779,550205
+1760,Woody (voice),0,31,301528
+1761,Buzz Lightyear (voice),0,12898,301528
+1762,Bo Peep (voice),0,8873,301528
+1763,Forky (voice),0,25147,301528
+1764,Ducky (voice),0,298410,301528
+1765,Sunny Starscout (voice),0,67599,597316
+1766,Izzy Moonbow (voice),0,1443708,597316
+1767,Hitch Trailblazer (voice),0,11006,597316
+1768,Pipp Petals (voice),0,1331457,597316
+1769,Zipp Storm (voice),0,1700631,597316
+1770,Captain Ejnar Mikkelsen,0,12795,836009
+1771,Iver Iversen,0,1081875,836009
+1772,Minister Neergaard,0,4391,836009
+1773,Naja Holm,0,1035194,836009
+1774,Jørgensen,0,587354,836009
+1775,Julia,0,1319077,893941
+1776,Nico,0,2640145,893941
+1777,Estela,0,1114252,893941
+1778,Justin,0,3541040,893941
+1779,Claudia,0,3541044,893941
+1780,Bryan Mills,0,3896,260346
+1781,Inspector Franck Dotzler,0,2178,260346
+1782,Lenore Mills - St. John,0,10696,260346
+1783,Kim Mills,0,11825,260346
+1784,Stuart St. John,0,15336,260346
+1785,Peter Rabbit (voice),0,55466,522478
+1786,Bea,0,9827,522478
+1787,Mr. Thomas McGregor,0,93210,522478
+1788,Nigel Basil-Jones,0,35013,522478
+1789,Flopsy (voice),0,234352,522478
+1790,Raleigh Becket,0,56365,68726
+1791,Mako Mori,0,18054,68726
+1792,Stacker Pentecost,0,17605,68726
+1793,Herc Hansen,0,94864,68726
+1794,Tendo Choi,0,5365,68726
+1795,Gary Moreau,0,146287,641501
+1796,Lieutenant Cécile Schaltzmann,0,146342,641501
+1797,Monté Carlo,0,47820,641501
+1798,Callista,0,23383,641501
+1799,Naja,0,145120,641501
+1800,Barbie Roberts (voice),0,63333,850818
+1801,Barbie 'Brooklyn' Roberts (voice),0,3003427,850818
+1802,George Roberts (voice),0,2467979,850818
+1803,Percussionist voice),0,1670534,850818
+1804,Skipper Roberts (voice),0,2112099,850818
+1805,Ray Cooper,0,117642,619297
+1806,Rachel Cooper,0,1428070,619297
+1807,Amo Santos,0,1168097,619297
+1808,Diana Morgan,0,15851,619297
+1809,Amanda Cooper,0,1371297,619297
+1810,Louisa 'Lou' Clark,0,1223786,296096
+1811,William 'Will' Traynor,0,237455,296096
+1812,Camilla Traynor,0,47627,296096
+1813,Stephen Traynor,0,4391,296096
+1814,Bernard Clark,0,74056,296096
+1815,Michael,0,6162,22894
+1816,Bob Hanson,0,6065,22894
+1817,Jeep Hanson,0,155,22894
+1818,Sandra Anderson,0,61114,22894
+1819,Kyle Williams,0,8169,22894
+1820,Tony Stark / Iron Man,0,3223,1726
+1821,James 'Rhodey' Rhodes,0,18288,1726
+1822,Obadiah Stane / Iron Monger,0,1229,1726
+1823,Virginia 'Pepper' Potts,0,12052,1726
+1824,Christine Everhart,0,57451,1726
+1825,Jackson Briggs,0,38673,626735
+1826,Tamara,0,209,626735
+1827,Gus,0,135352,626735
+1828,Noah,0,824,626735
+1829,Police Officer,0,109708,626735
+1830,Sam,0,543261,574060
+1831,Scarlet,0,17286,574060
+1832,Emily,0,1696016,574060
+1833,Madeleine,0,17832,574060
+1834,Florence,0,1620,574060
+1835,Scott Ward,0,543530,503736
+1836,Kate Ward,0,989325,503736
+1837,Vanderohe,0,41556,503736
+1838,Maria Cruz,0,57409,503736
+1839,Burt Cummings,0,51995,503736
+1840,Mickey (voice),0,1235060,864390
+1841,Minnie (voice),0,1382187,864390
+1842,Goofy (voice),0,84213,864390
+1843,Donald (voice),0,425055,864390
+1844,Daisy (voice),0,34983,864390
+1845,Beast Boy (voice),0,60227,834404
+1846,Robin (voice),0,113916,834404
+1847,Cyborg (voice),0,65640,834404
+1848,Raven (voice),0,15762,834404
+1849,Starfire (voice),0,113919,834404
+1850,Clary Fray,0,112561,123553
+1851,Jace Wayland,0,83356,123553
+1852,Simon Lewis,0,118616,123553
+1853,Alec Lightwood,0,7431,123553
+1854,Isabelle Lightwood,0,1075355,123553
+1855,Tony Stark / Iron Man,0,3223,68721
+1856,Virginia 'Pepper' Potts,0,12052,68721
+1857,James 'Rhodey' Rhodes / Iron Patriot,0,1896,68721
+1858,Aldrich Killian / The Mandarin,0,529,68721
+1859,Maya Hansen,0,15556,68721
+1860,Spider-Man / Peter Parker,0,2219,557
+1861,Green Goblin / Norman Osborn,0,5293,557
+1862,Mary Jane Watson,0,205,557
+1863,Harry Osborn,0,17051,557
+1864,Ben Parker,0,19153,557
+1865,Anya,0,1347006,763025
+1866,Janek,0,78909,763025
+1867,Mariah,0,1586723,763025
+1868,Valentina,0,2851847,763025
+1869,Jaya,0,85587,763025
+1870,Tarsilinha (voice),0,3537330,840439
+1871,Frog (voice),0,1751711,840439
+1872,Mother (voice),0,1073494,840439
+1873,Caterpillar (voice),0,139300,840439
+1874,Saci (voice),0,3537333,840439
+1875,John Bennett,0,13240,72105
+1876,Lori Collins,0,18973,72105
+1877,Ted (voice),0,52139,72105
+1878,Rex,0,74949,72105
+1879,Donny,0,1771,72105
+1880,John Hancock,0,2888,8960
+1881,Mary Embrey,0,6885,8960
+1882,Ray Embrey,0,23532,8960
+1883,Aaron Embrey,0,66658,8960
+1884,Red,0,1665,8960
+1885,Gary 'Eggsy' Unwin,0,1303037,207703
+1886,Harry Hart / Galahad,0,5472,207703
+1887,Merlin,0,2983,207703
+1888,Valentine,0,2231,207703
+1889,Roxy,0,1282054,207703
+1890,Chev Chelios,0,976,15092
+1891,Eve,0,20189,15092
+1892,Poon Dong,0,141,15092
+1893,Doc Miles,0,20309,15092
+1894,Ria,0,39126,15092
+1895,Liu Kang (voice),0,1231115,841755
+1896,Sonya Blade (voice),0,53828,841755
+1897,Johnny Cage (voice),0,74949,841755
+1898,Scorpion (voice),0,939345,841755
+1899,Raiden / Kintaro / Sektor (voice),0,1082094,841755
+1900,Dre Parker,0,120724,38575
+1901,Mr. Han,0,18897,38575
+1902,Sherry Parker,0,40036,38575
+1903,Meiying,0,1443364,38575
+1904,Master Li,0,120725,38575
+1905,Victor Van Dort (voice),0,85,3933
+1906,Corpse Bride (voice),0,1283,3933
+1907,Victoria Everglot (voice),0,1639,3933
+1908,Nell Van Dort / Hildegarde (voice),0,30364,3933
+1909,William Van Dort / Mayhew / Paul the Head Waiter (voice),0,34900,3933
+1910,Anna (voice),0,40462,109445
+1911,Elsa (voice),0,19394,109445
+1912,Kristoff (voice),0,221611,109445
+1913,Sven (voice),0,15831,109445
+1914,Olaf (voice),0,54415,109445
+1915,Clark Kent / Superman / Kal-El (voice),0,1222596,831405
+1916,Bruce Wayne / Batman (voice),0,56675,831405
+1917,Lois Lane / Rama Kushna (voice),0,75037,831405
+1918,Diana Prince / Wonder Woman (voice),0,204462,831405
+1919,Damian Wayne / Robin / Jimmy Olsen (voice),0,225863,831405
+1920,Marta,0,2655420,790525
+1921,Gabriele,0,2758389,790525
+1922,Federica,0,2670797,790525
+1923,Jacopo,0,2670796,790525
+1924,Rebecca,0,3016181,790525
+1925,Kenshin Himura,0,230659,672322
+1926,Tomoe Yukishiro,0,1039305,672322
+1927,Kogoro Katsura,0,87662,672322
+1928,Soji Okita,0,1310719,672322
+1929,Shinsaku Takasugi,0,74862,672322
+1930,Adas Adamiec,0,1457940,871964
+1931,Zosia Wolska,0,2068758,871964
+1932,Wanessa,0,1366025,871964
+1933,Sergeant Waldemar Gwizdala,0,235493,871964
+1934,Oliwier,0,553063,871964
+1935,Andrea,0,25911,930701
+1936,Ana,0,150446,930701
+1937,María,0,224321,930701
+1938,Matilde,0,1625154,930701
+1939,Katia,0,969412,930701
+1940,Richard Brumére,0,15111,729720
+1941,Alexandre Lazare,0,544681,729720
+1942,Archibald Al Mahmoud,0,2730049,729720
+1943,Dalila,0,1407933,729720
+1944,Paul Lesueur,0,48514,729720
+1945,Son Goten / Son Gokû (voice),0,90496,39106
+1946,Trunks (voice),0,1686,39106
+1947,Mr. Satan (voice),0,122191,39106
+1948,Kuririn (voice),0,65510,39106
+1949,Android 18 (voice),0,122660,39106
+1950,Wylie,0,2963,590706
+1951,Jake,0,1427888,590706
+1952,Harrigan,0,81685,590706
+1953,Kueng,0,57207,590706
+1954,Carmen,0,1296430,590706
+1955,Ray Gaines,0,18918,254128
+1956,Blake Gaines,0,109513,254128
+1957,Emma Gaines,0,17832,254128
+1958,Daniel Riddick,0,65524,254128
+1959,Serena Johnson,0,128645,254128
+1960,Newt Scamander,0,37632,422641
+1961,Jack Reacher,0,500,75780
+1962,Helen Rodin,0,10882,75780
+1963,Alex Rodin,0,28633,75780
+1964,Emerson,0,35013,75780
+1965,Mulan (voice),0,21702,10674
+1966,Mushu (voice),0,776,10674
+1967,Shang (voice),0,14592,10674
+1968,Shan-Yu (voice),0,15860,10674
+1969,Yao (voice),0,7420,10674
+1970,Stéphane,0,54918,754067
+1971,Victoria,0,2817795,754067
+1972,Anna,0,54227,754067
+1973,Thierry,0,24465,754067
+1974,Bruno,0,10698,754067
+1975,Michael/Makwa,0,154647,656991
+1976,Teddo,0,84219,656991
+1977,,0,7517,656991
+1978,Young Makwa,0,1879914,656991
+1979,Young Teddo,0,1650137,656991
+1980,Kaji Akihiko (voice),0,1248374,632632
+1981,Nakayama Haruki (voice),0,2019916,632632
+1982,Satou Mafuyu (voice),0,2157589,632632
+1983,Uenoyama Ritsuka (voice),0,1492992,632632
+1984,Murata Ugetsu (voice),0,1247778,632632
+1985,"Isabella ""Izzy""",0,54722,790142
+1986,Prince Thomas,0,1515478,790142
+1987,Destiny,0,1211193,790142
+1988,Lola,0,3392908,790142
+1989,Walter,0,5540,790142
+1990,Royce,0,3490,34851
+1991,Edwin,0,17052,34851
+1992,Isabelle,0,8602,34851
+1993,Nikolai,0,77351,34851
+1994,Noland,0,2975,34851
+1995,Hodaka Morishima (voice),0,2194388,568160
+1996,Hina Amano (voice),0,2109360,568160
+1997,Natsumi Suga (voice),0,1255487,568160
+1998,Nagisa Amano (voice),0,2352340,568160
+1999,Yasui (voice),0,85939,568160
+2000,Dominic Toretto,0,12835,168259
+2001,Brian O'Conner,0,8167,168259
+2002,Luke Hobbs,0,18918,168259
+2003,Leticia 'Letty' Ortiz,0,17647,168259
+2004,Roman Pearce,0,8169,168259
+2005,Tim Goodman,0,1029934,447404
+2006,Detective Pikachu (voice),0,10859,447404
+2007,Lucy Stevens,0,221192,447404
+2008,Howard Clifford,0,2440,447404
+2009,Lieutenant Hide Yoshida,0,3899,447404
+2010,Shouya Ishida (voice),0,19588,378064
+2011,Shouko Nishimiya (voice),0,221773,378064
+2012,Yuzuru Nishimiya (voice),0,936275,378064
+2013,Tomohiro Nagatsuka (voice),0,1065297,378064
+2014,Naoka Ueno (voice),0,1258549,378064
+2015,Self,0,10980,899082
+2016,Self,0,10989,899082
+2017,Self,0,10990,899082
+2018,Self,0,10991,899082
+2019,Self,0,96841,899082
+2020,Phil Wenneck,0,51329,18785
+2021,Stu Price,0,27105,18785
+2022,Alan Garner,0,58225,18785
+2023,Doug Billings,0,21180,18785
+2024,Jade,0,69122,18785
+2025,Norbit / Rasputia / Mr. Wong,0,776,9757
+2026,Kate Thomas,0,9030,9757
+2027,Big Jack Latimore,0,53256,9757
+2028,Earl Latimore,0,58924,9757
+2029,Blue Latimore,0,58925,9757
+2030,Pam McKenzie,0,475512,654974
+2031,Jeff McKenzie,0,1091324,654974
+2032,Max Mercer,0,2089892,654974
+2033,Carol Mercer,0,1423098,654974
+2034,Uncle Blake,0,1177838,654974
+2035,Son Gokû / Son Gohan / Bardock (voice),0,90496,24752
+2036,Piccolo (voice),0,85286,24752
+2037,Kuririn / Yajirobe (voice),0,65510,24752
+2038,Oolong / Haiya Dragon (voice),0,122373,24752
+2039,Chichi (voice),0,122192,24752
+2040,Tom Buckingham,0,209326,595743
+2041,Grace Lewis,0,1246972,595743
+2042,George Clements,0,1333,595743
+2043,William Lewis,0,207,595743
+2044,Declan Smith,0,1017294,595743
+2045,Anastasia Steele,0,118545,337167
+2046,Christian Grey,0,1254583,337167
+2047,Jack Hyde,0,33337,337167
+2048,Elliot Grey,0,56680,337167
+2049,Mia Grey,0,1089873,337167
+2050,Naruto (voice),0,82055,75624
+2051,Ryûzetsu (voice),0,210350,75624
+2052,Mui (voice),0,219659,75624
+2053,Sakura Haruno (voice),0,82057,75624
+2054,Yamato (voice),0,237076,75624
+2055,Satoshi (voice),0,65424,662708
+2056,Pikachu (voice),0,73044,662708
+2057,Coco (voice),0,1547747,662708
+2058,Musashi (voice),0,40325,662708
+2059,Kojiro (voice),0,62318,662708
+2060,Cinderella (voice),0,68652,11224
+2061,Lady Tremaine (voice),0,67289,11224
+2062,Fairy Godmother (voice),0,67290,11224
+2063,(credit only) (voice),0,68653,11224
+2064,Drizella (voice),0,179371,11224
+2065,Patrizia Reggiani,0,237405,644495
+2066,Maurizio Gucci,0,1023139,644495
+2067,Paolo Gucci,0,7499,644495
+2068,Rodolfo Gucci,0,16940,644495
+2069,Aldo Gucci,0,1158,644495
+2070,Jameson Locke,0,450,487186
+2071,Arris,0,1211540,487186
+2072,Estrin,0,1387727,487186
+2073,Jordan Gaines,0,1387728,487186
+2074,Mason Hundley,0,1387729,487186
+2075,Laura Lebrel del Bosque,0,132996,922885
+2076,Martín Maresca Delfino,0,1457183,922885
+2077,Lydia Martínez Fernández / Mercedes García,0,227073,922885
+2078,Maribel del Bosque,0,233764,922885
+2079,Vicente Cuevas,0,1089046,922885
+2080,Marlin (voice),0,13,12
+2081,Dory (voice),0,14,12
+2082,Nemo (voice),0,12,12
+2083,Gill (voice),0,5293,12
+2084,Bloat (voice),0,18,12
+2085,Vada Cavell,0,974169,795514
+2086,Mia Reed,0,1483976,795514
+2087,Quinton Hasland,0,1891446,795514
+2088,Amelia Cavell,0,2995075,795514
+2089,Anna,0,94185,795514
+2090,Fred Jones,0,33260,9637
+2091,Daphne Blake,0,11863,9637
+2092,Shaggy Rogers,0,26457,9637
+2093,Velma Dinkley,0,1817,9637
+2094,Emile Mondavarious,0,10730,9637
+2095,Son Gokû Jr. / Son Gokû,0,90496,18095
+2096,Pan,0,90569,18095
+2097,Gettô,0,224683,18095
+2098,Rapunzel (voice),0,16855,38757
+2099,Flynn Rider (voice),0,69899,38757
+2100,Mother Gothel (voice),0,2517,38757
+2101,Stabbington Brother (voice),0,2372,38757
+2102,Captain of the Guard (voice),0,22132,38757
+2103,Olaf (voice),0,54415,741074
+2104,Elsa (voice - archival),0,19394,741074
+2105,Anna (voice - archival),0,40462,741074
+2106,Kristoff (voice - archival),0,221611,741074
+2107,John Kelly,0,135651,567189
+2108,Robert Ritter,0,478,567189
+2109,Thomas Clay,0,529,567189
+2110,Karen Greer,0,1695989,567189
+2111,Pam Kelly,0,98772,567189
+2112,Seto Kaiba (voice),0,135524,366170
+2113,Yugi Moto (voice),0,1124535,366170
+2114,Joey Wheeler (voice),0,219752,366170
+2115,Tea Gardner,0,1221100,366170
+2116,Tristan Taylor,0,1221098,366170
+2117,Tiana (voice),0,15563,10198
+2118,Prince Naveen (voice),0,66252,10198
+2119,Dr. Facilier (voice),0,65827,10198
+2120,Louis (voice),0,110884,10198
+2121,Charlotte (voice),0,110885,10198
+2122,John Carter,0,60900,49529
+2123,Dejah Thoris,0,21044,49529
+2124,Sola,0,2206,49529
+2125,Tars Tarkas,0,5293,49529
+2126,Tal Hajus,0,19159,49529
+2127,,0,1415546,676840
+2128,,0,1007527,676840
+2129,,0,1358509,676840
+2130,,0,1198613,676840
+2131,Thomas,0,527393,294254
+2132,Minho,0,1310760,294254
+2133,Teresa Agnes,0,115150,294254
+2134,Newt,0,25663,294254
+2135,Frypan,0,1036196,294254
+2136,Raizo,0,112013,22832
+2137,Mika Coretti,0,2038,22832
+2138,Hollywood,0,61697,22832
+2139,Tattoo Master,0,9462,22832
+2140,Takeshi,0,10883,22832
+2141,Eloise Turner,0,1356758,576845
+2142,Sandie,0,1397778,576845
+2143,Jack,0,136532,576845
+2144,Peggy Turner,0,47754,576845
+2145,John,0,1672687,576845
+2146,Newt Scamander,0,37632,422642
+2147,Danny Green,0,17441,25769
+2148,Brian Green,0,62064,25769
+2149,Bobby,0,15555,25769
+2150,Kate,0,84247,25769
+2151,Frank Holloway,0,22227,25769
+2152,Sakuta Azusagawa (voice),0,1324666,572154
+2153,Mai Sakurajima (voice),0,1254672,572154
+2154,Shoko Makinohara (voice),0,1325949,572154
+2155,Kaede Azusagawa (voice),0,1288294,572154
+2156,Rio Futaba (voice),0,1588597,572154
+2157,Scar (voice),0,5294,420818
+2158,Zazu (voice),0,84292,420818
+2159,Mufasa (voice),0,15152,420818
+2160,Rafiki (voice),0,51878,420818
+2161,Sarabi (voice),0,1981,420818
+2162,Arthur Fleck / Joker,0,73421,475557
+2163,Murray Franklin,0,380,475557
+2164,Sophie Dumond,0,1545693,475557
+2165,Penny Fleck,0,4432,475557
+2166,Thomas Wayne,0,16841,475557
+2167,David Carmichael,0,529,675319
+2168,Jane,0,1464589,675319
+2169,Marlon Veidt,0,77700,675319
+2170,Joseph Veidt,0,28477,675319
+2171,Hawthorne,0,5414,675319
+2172,Spider-Man / Peter Parker,0,2219,559
+2173,Mary Jane Watson,0,205,559
+2174,New Goblin / Harry Osborn,0,17051,559
+2175,Sandman / Flint Marko,0,19159,559
+2176,Venom / Eddie Brock,0,17052,559
+2177,Jamie Randall,0,131,43347
+2178,Maggie Murdock,0,1813,43347
+2179,Bruce Winston,0,17485,43347
+2180,Dr. Stan Knight,0,5587,43347
+2181,Josh Randall,0,54415,43347
+2182,Hallie Parker / Annie James,0,49265,9820
+2183,Nick Parker,0,6065,9820
+2184,Elizabeth James,0,20162,9820
+2185,Meredith Blake,0,55422,9820
+2186,Chessy,0,4494,9820
+2187,Kyung-mi,0,1564175,628704
+2188,Do-sik,0,1557181,628704
+2189,Jong-tak,0,2166026,628704
+2190,Kyung-mi's mother,0,1191711,628704
+2191,So-jung,0,2214888,628704
+2192,Madea / Uncle Joe,0,80602,845404
+2193,Aunt Bam,0,80611,845404
+2194,Mr. Brown,0,78739,845404
+2195,Cora,0,78738,845404
+2196,Agnes Brown,0,112827,845404
+2197,Shinji Ikari (voice),0,77927,283566
+2198,Asuka Shikinami Langley (voice),0,83768,283566
+2199,Rei Ayanami / Yui Ikari (voice),0,40325,283566
+2200,Mari Illustrious Makinami (voice),0,9711,283566
+2201,Misato Katsuragi (voice),0,77931,283566
+2202,Satoshi (voice),0,65424,436931
+2203,Pikachu (voice),0,73044,436931
+2204,Musashi (voice),0,40325,436931
+2205,Kojiro (voice),0,62318,436931
+2206,Nyarth (voice),0,936287,436931
+2207,Dom Cobb,0,6193,27205
+2208,Arthur,0,24045,27205
+2209,Saito,0,3899,27205
+2210,Eames,0,2524,27205
+2211,Ariadne,0,27578,27205
+2212,Self - Writer,0,1603204,381749
+2213,Self - 'Playmen' Staff Member,0,2456652,381749
+2214,Naruto Uzumaki (voice),0,82055,118406
+2215,Sakura Haruno (voice),0,82057,118406
+2216,Minato Namikaze (voice),0,9706,118406
+2217,Kushina Uzumaki (voice),0,81851,118406
+2218,Kakashi Hatake (voice),0,89968,118406
+2219,Greg Cerva,0,54291,637534
+2220,Antoine,0,78124,637534
+2221,Yass,0,587142,637534
+2222,Nora,0,586757,637534
+2223,Jérôme,0,231332,637534
+2224,Jack Reacher,0,500,343611
+2225,Susan Turner,0,71189,343611
+2226,Samantha,0,1466613,343611
+2227,Espin,0,83860,343611
+2228,The Hunter,0,1223163,343611
+2229,Mater (voice),0,15897,49013
+2230,Lightning McQueen (voice),0,887,49013
+2231,Finn McMissile (voice),0,3895,49013
+2232,Holley Shiftwell (voice),0,1246,49013
+2233,Francesco Bernoulli (voice),0,1241,49013
+2234,Lennie,0,1366083,640265
+2235,Joe Fontaine,0,1532277,640265
+2236,Fiona,0,1956,640265
+2237,Big,0,41088,640265
+2238,Toby Shaw,0,1417739,640265
+2239,Arthur Curry / Aquaman,0,117642,297802
+2240,Mera,0,55085,297802
+2241,Nuidis Vulko,0,5293,297802
+2242,King Orm Marius / Ocean Master,0,17178,297802
+2243,Atlanna,0,2227,297802
+2244,Kate Dibiasky,0,72129,646380
+2245,Dr. Randall Mindy,0,6193,646380
+2246,President Orlean,0,5064,646380
+2247,Dr. Teddy Oglethorpe,0,1281250,646380
+2248,Jason Orlean,0,21007,646380
+2249,Hilda (voice),0,1668004,789708
+2250,Frida (voice),0,1729392,789708
+2251,David (voice),0,3333160,789708
+2252,Johanna (voice),0,209458,789708
+2253,Alfur Aldric (voice),0,205725,789708
+2254,Buster Moon (voice),0,10297,335797
+2255,Rosita (voice),0,368,335797
+2256,Mike (voice),0,52139,335797
+2257,Ash (voice),0,1245,335797
+2258,Eddie (voice),0,4764,335797
+2259,Joseph 'Coop' Cooper,0,10297,157336
+2260,Dr. Amelia Brand,0,1813,157336
+2261,Murphy 'Murph' Cooper,0,83002,157336
+2262,Old Murph Cooper,0,9560,157336
+2263,Donald,0,12074,157336
+2264,Agent J,0,2888,41154
+2265,Agent K,0,2176,41154
+2266,Young Agent K,0,16851,41154
+2267,Boris The Animal,0,55936,41154
+2268,Agent O,0,7056,41154
+2269,Reiko Yumioka,0,1306631,340553
+2270,Kyôko Yumioka,0,1190901,340553
+2271,Marie Tazaki,0,554604,340553
+2272,Ryôhei Taki,0,554402,340553
+2273,Yoshiaki Masaki,0,551506,340553
+2274,Aang,0,88816,10196
+2275,Zuko,0,76788,10196
+2276,Katara,0,61186,10196
+2277,Sokka,0,84215,10196
+2278,Uncle Iroh,0,17857,10196
+2279,Peter Quill / Star-Lord,0,73457,283995
+2280,Gamora,0,8691,283995
+2281,Drax the Destroyer,0,543530,283995
+2282,Baby Groot (voice),0,12835,283995
+2283,Rocket (voice),0,51329,283995
+2284,Son Goku / Son Gohan (voice),0,90496,39105
+2285,Mr. Satan (voice),0,122191,39105
+2286,Bojack (voice),0,1681,39105
+2287,Piccolo (voice),0,85286,39105
+2288,Kuririn (voice),0,65510,39105
+2289,Carl Fredricksen (voice),0,68812,14160
+2290,Charles F. Muntz (voice),0,290,14160
+2291,Russell (voice),0,80676,14160
+2292,Dug / Alpha (voice),0,10,14160
+2293,Beta (voice),0,18792,14160
+2294,Carrie Bradshaw,0,520,4564
+2295,Samantha Jones,0,2109,4564
+2296,Charlotte York Goldenblatt,0,38025,4564
+2297,Miranda Hobbes,0,38024,4564
+2298,Mr. Big,0,38026,4564
+2299,Ousmane Diakhité,0,78423,146375
+2300,François Monge,0,93532,146375
+2301,Yasmine,0,17475,146375
+2302,Daniel Cardinet,0,7278,146375
+2303,Giovanni / Nabil,0,458904,146375
+2304,Carol Danvers / Vers / Captain Marvel,0,60073,299537
+2305,Nick Fury,0,2231,299537
+2306,Talos / Keller,0,77335,299537
+2307,Yon-Rogg,0,9642,299537
+2308,Supreme Intelligence / Dr. Wendy Lawson,0,516,299537
+2309,Stella Grant,0,1286328,527641
+2310,Will Newman,0,56730,527641
+2311,Poe Ramírez,0,57412,527641
+2312,Nurse Barb,0,1538035,527641
+2313,Dr. Noor Hamid,0,231610,527641
+2314,Hank Parsons,0,18918,72545
+2315,Sean Anderson,0,27972,72545
+2316,Alexander Anderson,0,3895,72545
+2317,Kailani Laguatan,0,67599,72545
+2318,Gabato Laguatan,0,40481,72545
+2319,,0,1909479,945697
+2320,,0,84773,945697
+2321,,0,6535,945697
+2322,,0,2413216,945697
+2323,,0,803460,945697
+2324,Marcella Horvathova / Velvet,0,1192899,768449
+2325,Vasily,0,583061,768449
+2326,Velvet's Brother,0,2869652,768449
+2327,John / Voice of Cartel Leader,0,52705,768449
+2328,Lincoln Loud (voice),0,2597712,410113
+2329,Lori Loud (voice),0,283842,410113
+2330,Leni Loud (voice),0,71861,410113
+2331,Luna Loud (voice),0,52698,410113
+2332,Luan Loud (voice),0,1401389,410113
+2333,Lucy Pevensie,0,5526,411
+2334,Edmund Pevensie,0,5527,411
+2335,Peter Pevensie,0,5528,411
+2336,Susan Pevensie,0,5529,411
+2337,White Witch,0,3063,411
+2338,Son Gokû / Son Gohan (voice),0,90496,39100
+2339,Piccolo (voice),0,85286,39100
+2340,Kuririn (voice),0,65510,39100
+2341,Buruma (voice),0,122193,39100
+2342,Kame-sen'nin (voice),0,618,39100
+2343,Robert McCall,0,5292,345887
+2344,Dave York,0,1253360,345887
+2345,Miles Whittaker,0,1152019,345887
+2346,Brian Plummer,0,8984,345887
+2347,Susan Plummer,0,6832,345887
+2348,Mickey Pearson,0,10297,522627
+2349,Raymond,0,56365,522627
+2350,Dry Eye,0,1807132,522627
+2351,Rosalind,0,70904,522627
+2352,Cannabis Kingpin Matthew,0,239271,522627
+2353,Rob,0,69395,26123
+2354,Mr. Levenstein,0,26510,26123
+2355,Nathan,0,94769,26123
+2356,Lube,0,94906,26123
+2357,Heidi,0,482044,26123
+2358,Miklo,0,58646,9702
+2359,Cruz,0,58647,9702
+2360,Paco,0,4589,9702
+2361,Montana,0,16427,9702
+2362,Magic Mike,0,58648,9702
+2363,Alex,0,90755,23823
+2364,Nate,0,90582,23823
+2365,Sophie,0,147893,23823
+2366,Floyd,0,123796,23823
+2367,Deputy Ally Lane,0,141538,23823
+2368,Cade Yeager,0,13240,91314
+2369,Joshua,0,2283,91314
+2370,Tessa Yeager,0,61186,91314
+2371,Shane,0,1007683,91314
+2372,Savoy,0,39389,91314
+2373,Viola Eade,0,1315036,412656
+2374,Todd Hewitt,0,1136406,412656
+2375,Mayor David Prentiss,0,1019,412656
+2376,Ben Moore,0,76961,412656
+2377,Aaron,0,35013,412656
+2378,Miles Morales / Spider-Man (voice),0,587506,324857
+2379,Peter B. Parker / Spider-Man (voice),0,543505,324857
+2380,Gwen Stacy / Spider-Woman (voice),0,130640,324857
+2381,Uncle Aaron / Prowler (voice),0,932967,324857
+2382,Jefferson Davis (voice),0,226366,324857
+2383,Bella Swan,0,37917,8966
+2384,Edward Cullen,0,11288,8966
+2385,Charlie Swan,0,21029,8966
+2386,Jacob Black,0,84214,8966
+2387,Alice Cullen,0,45827,8966
+2388,Homer Simpson / Itchy / Barney / Abe Simpson / Stage Manager / Krusty the Clown / Mayor Quimby / Mayor's Aide / Multi-Eyed Squirrel / Panicky Man / Sideshow Mel / Mr. Teeny / EPA Official / Kissing Cop / Bear / Boy on Phone / NSA Worker / Officer / Santa's Little Helper / Squeaky-Voiced Teen (voice),0,198,35
+2389,Marge Simpson / Selma / Patty (voice),0,199,35
+2390,Bart Simpson / Maggie Simpson / Ralph / Nelson / Todd Flanders / TV Daughter / Woman on Phone (voice),0,200,35
+2391,Lisa Simpson (voice),0,5586,35
+2392,Professor Frink / Comic Book Guy / Moe / Chief Wiggum / Lou / Carl / Cletus / Bumblebee Man / Male EPA Worker / Dome Depot Announcer / Kissing Cop / Carnival Barker / Counter Man / Apu / Drederick Tatum / Sea Captain / EPA Passenger / Robot / Dr. Nick / Wise Guy (voice),0,5587,35
+2393,Mack Phillips,0,65731,345938
+2394,Papa / Elouisa,0,6944,345938
+2395,Willie,0,74428,345938
+2396,Jesus,0,1251785,345938
+2397,Sarayu,0,1818135,345938
+2398,Cindy Campbell,0,1772,4247
+2399,Bobby Prinze,0,17866,4247
+2400,Shorty Meeks,0,9562,4247
+2401,Ray Wilkins,0,35690,4247
+2402,Brenda Meeks,0,35705,4247
+2403,James Ford,0,62,681887
+2404,Fiona Ardene,0,131781,681887
+2405,Gen. Eron Ryle,0,81685,681887
+2406,Alex Loche,0,58058,681887
+2407,Ltg. Tieve,0,36055,681887
+2408,Ki-hun,0,150903,586047
+2409,Seobok,0,587634,586047
+2410,Chief Ahn,0,1566012,586047
+2411,Dr. Im Se-eun,0,93996,586047
+2412,,0,564844,586047
+2413,Nicolas Shaw,0,12834,809314
+2414,Fiona Snow,0,43286,809314
+2415,Elias Kane,0,10132,809314
+2416,Monica Kane,0,209723,809314
+2417,Mouthpiece,0,1196455,809314
+2418,Issac,0,1426170,725273
+2419,Alana,0,1682507,725273
+2420,Harry,0,1228665,725273
+2421,Isabel,0,2196282,725273
+2422,Ken Bradley,0,1600599,725273
+2423,Richard Pace,0,517,581644
+2424,Violet,0,78324,581644
+2425,Schultz,0,3129,581644
+2426,Hope,0,1345419,581644
+2427,Ringo,0,36811,581644
